@@ -1,0 +1,913 @@
+fund_name,asset_class,category,classification,aum_cr,expense_ratio,return_1y,return_3y,return_5y,sharpe,std_dev,alpha,beta
+SBI Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,44923.0,1.53,26.43,21.37,14.37,1.36,15.51,2.51,0.95
+SBI Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,4687.0,2.12,10.28,12.24,25.97,1.81,18.56,5.34,1.08
+SBI Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,11608.0,0.84,41.06,25.57,20.69,1.29,21.28,0.0,0.97
+SBI Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,47417.0,1.59,15.4,24.62,13.78,1.51,12.69,1.91,0.92
+SBI Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,2235.0,2.35,26.42,14.45,27.61,1.15,12.72,5.82,1.07
+SBI Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,2161.0,1.79,11.41,14.19,14.19,1.15,16.8,1.5,1.01
+SBI ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,19622.0,0.85,19.79,24.76,23.12,0.88,17.3,1.62,0.88
+SBI Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,4675.0,2.19,30.51,16.69,22.27,1.44,14.21,4.29,0.88
+SBI Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,6476.0,1.36,19.15,19.65,16.95,1.45,12.06,1.68,0.94
+SBI Contra Fund-Reg(G),Equity MF,EQ-CONT,Equity : Contra,5050.0,2.28,27.39,11.88,22.69,1.44,16.39,2.44,1.01
+SBI Dividend Yield Fund-Reg(G),Equity MF,EQ-DIV,Equity : Dividend Yield,290.0,1.48,14.08,20.01,17.28,1.52,11.93,-1.33,0.92
+SBI Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,44065.0,0.44,15.03,18.55,19.34,1.51,12.61,-0.29,0.99
+SBI Nifty Next 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,49264.0,0.08,19.12,9.24,23.95,1.46,11.66,-0.71,1.01
+SBI Nifty 100 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,25664.0,0.11,27.77,19.29,13.04,0.57,10.13,-0.35,1.02
+SBI Nifty Midcap 150 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,4422.0,0.44,20.94,13.14,21.26,0.61,13.75,-0.76,0.99
+SBI Nifty Smallcap 250 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,7165.0,0.09,18.96,19.1,19.14,0.98,20.68,0.02,1.0
+SBI Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,15936.0,0.1,18.05,21.79,20.51,1.52,15.82,0.54,0.98
+SBI Nifty Bank ETF,Index Fund,EQ-ETF,Equity : ETF,26206.0,0.41,17.87,15.94,13.96,0.68,20.96,-0.68,1.01
+SBI Nifty IT ETF,Index Fund,EQ-ETF,Equity : ETF,28462.0,0.35,17.15,9.94,16.53,0.79,12.65,0.04,1.01
+SBI Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,2137.0,1.27,34.32,32.0,29.59,1.93,19.3,4.86,0.75
+SBI IT Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,14748.0,1.53,6.09,30.51,20.33,1.45,29.51,5.84,0.89
+SBI Pharma Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,20532.0,2.03,38.7,25.54,35.72,0.8,21.07,1.19,0.79
+SBI Arbitrage Fund-Reg(G),Equity MF,EQ-ARB,Equity : Arbitrage,2909.0,1.19,6.73,5.82,6.59,2.85,1.3,-0.44,0.03
+HDFC Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,63452.0,1.92,19.79,16.72,21.14,1.28,15.09,3.92,0.93
+HDFC Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,26253.0,1.98,16.37,27.69,23.88,1.45,19.7,-1.83,1.1
+HDFC Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,10423.0,1.82,42.24,24.46,35.32,0.93,17.22,-1.93,0.92
+HDFC Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,278.0,1.4,12.45,19.07,14.99,1.01,17.71,5.13,0.9
+HDFC Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,9682.0,2.31,32.8,17.36,20.02,1.66,15.37,0.06,0.93
+HDFC Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,9632.0,1.52,26.41,21.3,17.77,1.07,18.96,5.57,0.85
+HDFC ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,27549.0,1.32,20.42,17.53,24.51,0.95,14.08,0.83,0.99
+HDFC Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,13708.0,1.1,16.12,22.48,26.85,1.09,16.99,3.48,0.93
+HDFC Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,1558.0,1.19,8.51,15.26,24.22,1.11,13.2,-0.42,1.02
+HDFC Dividend Yield Fund-Reg(G),Equity MF,EQ-DIV,Equity : Dividend Yield,2409.0,1.66,15.94,19.23,19.38,0.61,11.75,-1.52,0.82
+HDFC Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,36315.0,0.15,24.32,11.41,20.64,1.38,20.41,0.54,1.0
+HDFC Nifty Next 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,40825.0,0.44,27.76,22.0,15.56,1.45,12.09,0.04,0.99
+HDFC Nifty 100 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,21775.0,0.16,7.34,21.7,21.54,1.05,16.48,0.41,0.98
+HDFC Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,20456.0,0.21,26.5,12.36,22.49,0.62,19.72,-0.87,1.0
+HDFC Nifty Bank ETF,Index Fund,EQ-ETF,Equity : ETF,27189.0,0.24,9.5,16.05,23.76,0.78,21.8,-0.33,0.98
+HDFC Nifty IT ETF,Index Fund,EQ-ETF,Equity : ETF,10877.0,0.16,16.29,18.57,14.95,0.78,11.5,0.17,1.02
+HDFC Nifty 100 ETF,Index Fund,EQ-ETF,Equity : ETF,13764.0,0.25,11.1,13.08,12.0,1.52,18.81,-0.11,1.01
+HDFC Midcap Select ETF,Index Fund,EQ-ETF,Equity : ETF,363.0,0.04,5.5,18.48,22.82,0.89,20.23,-0.13,1.0
+HDFC Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,413.0,0.71,26.82,25.42,43.47,1.06,27.24,0.55,0.88
+HDFC IT Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,26725.0,1.73,6.48,18.08,19.49,1.6,14.64,1.01,0.87
+HDFC Pharma Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,7182.0,1.01,46.37,35.85,17.05,1.56,29.4,-2.45,0.72
+HDFC Infrastructure Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,10986.0,1.84,33.08,27.93,31.31,0.99,26.94,9.8,0.78
+HDFC International Fund-Reg(G),Equity MF,EQ-INT,Equity : International,1394.0,1.08,28.81,14.96,25.84,1.31,13.44,-2.12,0.71
+HDFC Arbitrage Fund-Reg(G),Equity MF,EQ-ARB,Equity : Arbitrage,3685.0,0.84,7.02,6.89,6.54,1.66,1.15,0.13,0.08
+ICICI Pru Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,77472.0,0.69,8.24,16.15,18.64,1.34,13.62,0.65,0.87
+ICICI Pru Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,21932.0,2.2,20.61,15.87,24.38,1.1,16.05,3.68,1.06
+ICICI Pru Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,17332.0,0.77,32.48,28.92,23.7,0.5,18.98,1.08,1.04
+ICICI Pru Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,56057.0,2.19,18.03,24.49,14.23,0.96,14.23,5.02,1.08
+ICICI Pru Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,17814.0,1.63,27.76,12.7,20.06,1.55,13.21,-1.73,0.88
+ICICI Pru Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,8322.0,0.89,25.65,22.98,28.67,1.86,17.86,3.63,1.15
+ICICI Pru ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,36955.0,2.5,31.52,15.04,16.19,1.12,12.47,3.03,0.95
+ICICI Pru Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,3355.0,0.72,13.44,23.66,21.57,1.6,12.44,0.83,1.0
+ICICI Pru Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,10036.0,1.53,23.22,12.63,13.36,0.79,13.32,2.57,1.02
+ICICI Pru Contra Fund-Reg(G),Equity MF,EQ-CONT,Equity : Contra,1791.0,1.38,21.1,15.72,15.23,1.89,13.4,5.95,1.05
+ICICI Pru Dividend Yield Fund-Reg(G),Equity MF,EQ-DIV,Equity : Dividend Yield,7235.0,0.98,15.43,16.95,16.48,1.42,12.52,3.22,0.83
+ICICI Pru Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,34699.0,0.36,6.87,17.44,11.36,0.64,17.27,-0.01,1.0
+ICICI Pru Nifty Next 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,32647.0,0.5,7.7,9.91,15.2,0.52,10.22,-0.07,1.0
+ICICI Pru Nifty 100 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,26416.0,0.41,8.11,20.45,15.25,1.06,10.96,0.34,1.01
+ICICI Pru Nifty Midcap 150 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,1223.0,0.4,26.46,21.76,11.06,0.77,13.22,0.75,1.01
+ICICI Pru Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,27634.0,0.18,23.89,21.35,14.55,1.53,15.52,0.99,1.01
+ICICI Pru Nifty Bank ETF,Index Fund,EQ-ETF,Equity : ETF,17950.0,0.3,27.41,19.81,21.82,0.7,20.83,0.39,0.98
+ICICI Pru Nifty IT ETF,Index Fund,EQ-ETF,Equity : ETF,25298.0,0.36,12.67,14.13,18.91,0.66,11.62,-0.7,1.01
+ICICI Pru Nifty 100 ETF,Index Fund,EQ-ETF,Equity : ETF,24138.0,0.01,5.62,18.16,22.09,0.92,15.5,0.6,0.98
+ICICI Pru Midcap Select ETF,Index Fund,EQ-ETF,Equity : ETF,10499.0,0.44,27.39,13.69,15.89,0.98,19.14,0.86,1.01
+ICICI Pru Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,18508.0,2.35,48.03,20.33,12.98,1.24,17.04,7.69,1.2
+ICICI Pru IT Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,3189.0,1.82,10.63,28.81,25.96,1.09,15.6,8.94,0.88
+ICICI Pru Pharma Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,18036.0,1.83,8.95,13.08,34.55,0.84,14.61,8.62,0.73
+ICICI Pru International Fund-Reg(G),Equity MF,EQ-INT,Equity : International,5239.0,1.56,20.17,12.98,11.19,1.33,22.06,2.94,1.1
+ICICI Pru Arbitrage Fund-Reg(G),Equity MF,EQ-ARB,Equity : Arbitrage,1634.0,0.49,6.76,5.96,5.34,2.25,0.57,-0.48,0.02
+Nippon India Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,28101.0,1.26,26.55,17.88,15.22,1.31,10.54,4.74,0.97
+Nippon India Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,22829.0,1.5,25.7,24.3,29.99,0.63,17.78,-1.01,0.99
+Nippon India Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,15177.0,1.11,29.89,15.46,34.67,0.93,18.98,-0.64,0.89
+Nippon India Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,2170.0,0.91,16.21,19.49,15.05,1.01,14.68,5.21,0.88
+Nippon India Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,18921.0,0.89,14.89,21.64,17.58,0.95,12.81,-1.52,1.04
+Nippon India Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,6545.0,1.78,35.48,19.22,32.24,1.22,20.96,5.44,0.98
+Nippon India ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,23458.0,1.03,31.8,19.99,22.78,1.77,15.73,-1.17,1.07
+Nippon India Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,3770.0,1.58,28.42,21.25,24.4,0.72,16.4,1.63,1.0
+Nippon India Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,18609.0,0.75,23.89,20.2,23.23,1.3,16.08,2.89,0.91
+Nippon India Dividend Yield Fund-Reg(G),Equity MF,EQ-DIV,Equity : Dividend Yield,5910.0,1.11,6.97,11.12,18.81,1.51,13.54,2.88,0.84
+Nippon India Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,26294.0,0.37,14.9,16.91,18.48,0.93,20.82,0.31,0.98
+Nippon India Nifty Next 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,43445.0,0.31,21.26,18.8,18.1,0.82,16.9,0.38,1.0
+Nippon India Nifty 100 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,16030.0,0.31,13.63,20.07,20.58,0.77,15.78,-0.13,1.0
+Nippon India Nifty Midcap 150 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,14862.0,0.35,10.1,18.19,14.39,0.51,17.3,-0.13,1.02
+Nippon India Nifty Smallcap 250 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,12861.0,0.46,27.13,14.22,23.68,0.9,11.44,0.39,1.01
+Nippon India Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,14808.0,0.28,24.49,16.57,11.75,0.68,20.55,-0.67,0.99
+Nippon India Nifty Bank ETF,Index Fund,EQ-ETF,Equity : ETF,20756.0,0.15,9.49,16.95,16.57,0.75,19.13,0.05,0.98
+Nippon India Nifty IT ETF,Index Fund,EQ-ETF,Equity : ETF,21572.0,0.42,23.85,21.7,12.45,0.87,14.35,-1.0,0.98
+Nippon India Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,8351.0,1.8,21.31,30.89,20.12,1.84,14.73,1.13,1.12
+Nippon India IT Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,772.0,0.77,7.45,38.41,22.14,0.76,25.53,2.0,1.22
+Nippon India Pharma Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,3450.0,0.81,11.16,32.42,43.0,1.76,29.35,0.43,0.85
+Nippon India Infrastructure Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,1173.0,1.73,33.72,14.97,12.35,0.76,16.34,9.48,1.25
+Nippon India Consumption Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,17509.0,1.04,45.55,27.68,20.49,0.68,23.22,9.73,1.2
+Nippon India International Fund-Reg(G),Equity MF,EQ-INT,Equity : International,6319.0,1.72,29.92,18.86,32.2,0.41,19.78,-0.15,0.74
+Nippon India Arbitrage Fund-Reg(G),Equity MF,EQ-ARB,Equity : Arbitrage,3885.0,1.05,7.82,5.03,5.72,2.49,1.51,0.37,0.11
+Kotak Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,55109.0,1.35,8.78,19.16,19.25,0.74,13.66,0.77,0.88
+Kotak Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,4106.0,2.11,28.81,21.0,16.04,1.4,14.36,1.99,0.95
+Kotak Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,17710.0,1.07,19.14,33.47,32.55,1.22,24.34,0.62,0.95
+Kotak Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,26261.0,1.96,18.72,22.32,18.28,1.32,14.57,5.53,0.85
+Kotak Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,19837.0,2.2,9.01,26.87,25.25,0.84,18.83,5.67,0.94
+Kotak Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,14378.0,2.05,33.88,13.03,17.06,1.55,20.6,4.09,0.9
+Kotak ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,27949.0,2.04,30.46,14.69,26.44,1.55,17.43,1.27,1.0
+Kotak Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,7459.0,1.39,11.46,26.19,26.49,1.48,19.87,0.49,0.85
+Kotak Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,8981.0,1.11,15.04,10.07,24.38,1.15,12.9,-1.75,0.92
+Kotak Contra Fund-Reg(G),Equity MF,EQ-CONT,Equity : Contra,1258.0,1.85,24.85,12.51,20.7,1.74,16.65,1.57,0.83
+Kotak Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,36806.0,0.29,17.11,13.42,12.24,0.96,15.44,0.84,1.0
+Kotak Nifty Next 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,562.0,0.34,17.01,14.41,23.38,1.23,17.93,0.44,0.99
+Kotak Nifty 100 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,29680.0,0.37,15.55,15.07,13.54,1.25,18.23,0.68,1.0
+Kotak Nifty Midcap 150 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,40744.0,0.14,17.56,11.54,22.24,1.41,20.17,-0.99,1.01
+Kotak Nifty Smallcap 250 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,33746.0,0.3,16.66,14.23,18.48,1.12,11.08,-0.74,0.98
+Kotak Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,22201.0,0.1,9.96,10.96,13.73,1.6,19.31,-0.18,1.01
+Kotak Nifty Bank ETF,Index Fund,EQ-ETF,Equity : ETF,558.0,0.42,10.07,12.02,14.75,0.54,17.47,0.92,0.99
+Kotak Nifty IT ETF,Index Fund,EQ-ETF,Equity : ETF,15871.0,0.25,9.39,12.07,11.8,0.9,13.73,-0.14,0.99
+Kotak Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,16000.0,2.2,7.47,21.57,24.92,0.53,29.85,-2.45,1.23
+Kotak IT Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,10168.0,1.41,13.93,31.97,40.73,1.09,26.75,-2.73,1.12
+Kotak Pharma Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,23635.0,1.77,26.44,20.02,44.65,0.98,18.72,6.48,0.76
+Kotak Infrastructure Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,3416.0,2.12,43.12,29.09,34.24,2.14,25.93,5.32,1.17
+Kotak Arbitrage Fund-Reg(G),Equity MF,EQ-ARB,Equity : Arbitrage,9532.0,0.82,7.65,6.68,5.77,2.58,0.58,-0.33,0.11
+Axis Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,52075.0,1.01,22.97,10.05,20.93,0.97,15.01,-1.14,0.87
+Axis Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,7097.0,2.17,8.16,12.69,15.48,1.62,13.25,1.11,0.85
+Axis Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,1728.0,1.22,38.38,23.37,24.56,1.63,20.08,4.55,0.9
+Axis Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,40056.0,2.02,11.48,15.56,22.78,1.11,14.44,3.7,1.07
+Axis Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,2234.0,1.18,13.32,26.28,29.81,1.49,15.07,4.22,0.95
+Axis Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,1760.0,1.42,34.02,16.93,18.36,2.0,16.98,6.15,0.92
+Axis ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,30344.0,2.35,26.91,22.65,18.97,1.01,17.16,3.42,0.88
+Axis Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,7894.0,1.73,21.7,22.21,28.35,1.96,19.37,-1.49,0.92
+Axis Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,11464.0,1.78,21.44,10.53,12.63,1.63,14.78,1.07,1.0
+Axis Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,42713.0,0.34,16.69,19.36,13.22,0.76,13.24,-0.06,1.02
+Axis Nifty Next 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,12232.0,0.29,6.41,9.88,12.03,1.36,15.98,-0.54,1.01
+Axis Nifty 100 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,36164.0,0.39,21.11,13.67,12.36,0.97,11.97,-0.74,0.98
+Axis Nifty Midcap 150 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,4133.0,0.07,18.0,19.4,21.3,1.25,19.51,0.89,1.0
+Axis Nifty Smallcap 250 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,22708.0,0.34,18.11,18.5,21.7,0.98,18.54,-0.86,0.99
+Axis Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,3246.0,0.08,14.16,12.59,12.48,1.55,20.32,-0.97,0.99
+Axis Nifty Bank ETF,Index Fund,EQ-ETF,Equity : ETF,9600.0,0.45,18.18,16.78,22.3,0.66,13.5,-0.57,1.0
+Axis Nifty IT ETF,Index Fund,EQ-ETF,Equity : ETF,28806.0,0.26,10.78,14.4,18.92,1.04,21.73,0.52,0.99
+Axis Nifty 100 ETF,Index Fund,EQ-ETF,Equity : ETF,29052.0,0.29,10.59,12.37,18.14,0.85,21.92,-0.06,1.0
+Axis Midcap Select ETF,Index Fund,EQ-ETF,Equity : ETF,14850.0,0.39,19.29,19.46,20.69,0.73,17.33,0.15,1.02
+Axis Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,20129.0,1.95,21.85,31.47,41.47,2.32,26.98,0.46,0.79
+Axis IT Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,16088.0,1.81,44.65,17.64,16.93,1.4,22.87,-0.62,1.3
+Axis Pharma Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,3949.0,1.28,20.37,14.72,15.34,1.12,28.66,4.23,1.0
+Axis Infrastructure Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,12272.0,1.41,21.93,15.6,40.79,2.2,28.54,-2.66,1.13
+Axis Arbitrage Fund-Reg(G),Equity MF,EQ-ARB,Equity : Arbitrage,10034.0,0.61,6.7,6.25,5.24,2.0,1.72,0.12,0.13
+Mirae Asset Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,27678.0,0.91,6.82,19.32,23.82,1.59,10.04,0.32,0.9
+Mirae Asset Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,19662.0,2.37,13.48,23.0,22.09,0.67,13.75,5.74,0.91
+Mirae Asset Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,17899.0,0.74,18.29,31.52,16.69,0.53,25.99,4.59,0.92
+Mirae Asset Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,22384.0,1.25,17.64,20.94,25.39,0.67,12.83,-0.18,0.98
+Mirae Asset Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,1118.0,0.8,34.98,21.98,17.41,1.34,16.77,1.87,1.09
+Mirae Asset Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,2880.0,2.11,31.06,16.41,19.37,1.64,20.03,5.56,0.97
+Mirae Asset ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,28641.0,0.98,7.56,19.92,14.73,1.44,11.13,2.14,0.91
+Mirae Asset Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,6874.0,1.14,10.45,15.44,20.38,1.84,18.11,4.18,0.96
+Mirae Asset Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,740.0,1.58,22.0,14.72,18.73,0.9,12.67,1.75,0.96
+Mirae Asset Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,47223.0,0.25,16.13,13.19,15.19,0.86,13.16,-0.01,0.99
+Mirae Asset Nifty Next 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,32321.0,0.16,10.36,19.72,15.86,0.85,17.52,-0.34,1.01
+Mirae Asset Nifty 100 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,3960.0,0.35,26.59,11.49,11.18,1.24,15.44,-0.44,1.01
+Mirae Asset Nifty Midcap 150 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,38587.0,0.37,9.08,13.99,23.78,0.96,11.54,0.61,1.01
+Mirae Asset Nifty Smallcap 250 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,21270.0,0.08,21.35,9.88,17.66,1.08,15.96,0.65,1.0
+Mirae Asset Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,2110.0,0.03,22.43,14.83,15.21,1.16,16.28,0.58,0.99
+Mirae Asset Nifty Bank ETF,Index Fund,EQ-ETF,Equity : ETF,20090.0,0.34,22.35,14.11,23.32,0.53,17.06,0.07,1.01
+Mirae Asset Nifty IT ETF,Index Fund,EQ-ETF,Equity : ETF,13948.0,0.02,21.65,14.6,14.53,0.58,10.44,-0.9,1.0
+Mirae Asset Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,10302.0,1.01,48.24,26.57,26.36,0.43,23.74,-1.04,0.83
+Mirae Asset IT Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,24262.0,0.58,23.51,34.58,28.68,0.98,19.51,6.18,0.82
+Mirae Asset Pharma Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,29891.0,2.08,9.01,19.61,40.68,2.33,14.18,0.31,1.26
+Mirae Asset Infrastructure Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,2095.0,1.26,22.55,17.53,31.02,0.92,14.51,-2.15,0.83
+Mirae Asset International Fund-Reg(G),Equity MF,EQ-INT,Equity : International,1434.0,2.22,10.39,19.76,24.85,1.97,15.07,-2.37,1.06
+Mirae Asset Arbitrage Fund-Reg(G),Equity MF,EQ-ARB,Equity : Arbitrage,1194.0,0.37,7.12,5.07,5.02,1.95,0.69,0.5,0.07
+DSP Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,17527.0,1.38,10.05,16.37,13.0,1.89,15.06,0.23,0.97
+DSP Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,28420.0,1.47,20.25,22.82,20.4,1.29,15.05,4.12,0.94
+DSP Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,7247.0,0.85,37.53,21.8,21.57,1.78,25.93,-1.97,0.91
+DSP Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,23119.0,2.28,7.8,19.78,25.0,1.5,16.05,-1.45,0.92
+DSP Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,668.0,0.93,16.52,15.27,27.08,1.98,18.84,3.97,1.05
+DSP Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,916.0,2.06,34.12,23.73,23.54,1.37,18.11,5.36,1.06
+DSP ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,4954.0,2.34,31.96,24.27,24.25,1.96,14.33,-1.66,1.06
+DSP Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,4745.0,1.77,16.69,21.73,14.97,1.97,14.71,5.62,1.0
+DSP Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,6693.0,1.83,15.39,21.75,18.44,0.88,14.45,4.11,0.98
+DSP Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,44712.0,0.16,21.81,14.37,16.36,0.82,11.52,-0.07,1.0
+DSP Nifty Next 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,1697.0,0.16,21.2,18.87,13.14,1.18,19.28,-0.14,0.99
+DSP Nifty 100 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,6751.0,0.26,7.53,11.69,16.99,1.35,17.37,0.23,0.99
+DSP Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,24339.0,0.45,5.23,14.23,16.12,0.58,20.67,0.27,1.0
+DSP Nifty Bank ETF,Index Fund,EQ-ETF,Equity : ETF,6361.0,0.36,8.79,18.62,20.85,1.11,14.06,0.46,1.01
+DSP Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,24864.0,1.51,14.51,12.98,27.19,0.43,15.41,-0.7,0.82
+DSP International Fund-Reg(G),Equity MF,EQ-INT,Equity : International,6453.0,0.77,15.98,21.75,13.87,1.7,23.82,2.47,0.89
+DSP Arbitrage Fund-Reg(G),Equity MF,EQ-ARB,Equity : Arbitrage,3932.0,0.57,7.03,5.58,5.66,2.12,0.9,0.11,0.03
+Franklin India Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,40559.0,1.29,20.58,10.95,12.27,0.79,11.46,-1.5,0.93
+Franklin India Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,27124.0,1.33,30.65,24.96,21.25,1.89,14.25,0.93,0.99
+Franklin India Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,728.0,2.17,29.68,18.1,23.14,1.83,25.45,8.38,0.85
+Franklin India Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,46964.0,2.21,14.62,19.46,23.9,1.37,14.03,0.65,1.0
+Franklin India Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,15433.0,2.01,30.11,20.03,15.0,1.95,14.98,-0.7,0.89
+Franklin India Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,8578.0,1.5,18.02,28.85,20.43,1.24,15.67,1.59,0.95
+Franklin India ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,35069.0,0.88,10.45,17.82,19.79,1.07,13.07,2.27,0.92
+Franklin India Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,350.0,2.19,31.63,13.16,29.98,2.1,15.41,6.85,1.02
+Franklin India Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,18949.0,0.57,16.37,14.6,13.44,0.85,16.21,1.48,0.81
+Franklin India Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,17982.0,0.25,8.15,20.34,17.02,0.75,20.38,-0.94,0.98
+Franklin India Nifty Next 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,36572.0,0.42,13.68,12.51,22.38,1.58,13.6,-0.12,0.98
+Franklin India Nifty 100 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,39038.0,0.17,13.01,14.69,11.51,0.76,20.76,-0.23,1.01
+Franklin India Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,13553.0,0.05,5.68,14.95,12.0,0.55,21.97,-0.76,0.98
+Franklin India Nifty Bank ETF,Index Fund,EQ-ETF,Equity : ETF,20229.0,0.04,22.85,14.76,17.86,1.16,11.4,0.16,0.99
+Franklin India Nifty IT ETF,Index Fund,EQ-ETF,Equity : ETF,28826.0,0.3,21.83,20.41,22.44,0.51,21.58,0.65,0.98
+Franklin India Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,26833.0,1.3,30.22,12.78,15.57,0.8,20.39,7.59,0.98
+Franklin India IT Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,16340.0,2.44,49.47,20.37,23.47,0.44,18.58,0.89,1.14
+Franklin India International Fund-Reg(G),Equity MF,EQ-INT,Equity : International,1139.0,0.59,38.0,11.79,21.12,1.32,20.92,5.36,1.09
+Franklin India Arbitrage Fund-Reg(G),Equity MF,EQ-ARB,Equity : Arbitrage,5720.0,0.37,6.76,6.52,6.53,2.97,0.65,0.39,0.1
+UTI Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,30685.0,1.82,5.78,15.31,21.63,1.56,13.85,3.88,1.03
+UTI Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,9444.0,2.14,27.36,26.42,26.17,1.09,19.67,1.43,0.9
+UTI Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,11810.0,0.89,19.87,14.39,36.54,1.37,20.67,2.22,0.98
+UTI Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,25864.0,2.07,7.6,12.92,27.77,0.68,15.79,1.37,0.94
+UTI Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,13214.0,1.86,26.45,21.33,15.97,1.08,18.54,5.7,0.94
+UTI Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,7509.0,1.38,10.33,20.41,17.62,1.92,20.24,5.36,0.91
+UTI ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,26265.0,2.09,21.61,21.43,16.21,1.63,13.39,0.96,0.9
+UTI Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,2890.0,2.29,20.96,27.18,28.72,1.0,15.66,2.9,0.94
+UTI Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,11174.0,0.75,17.35,11.85,20.5,1.0,16.66,4.48,0.86
+UTI Dividend Yield Fund-Reg(G),Equity MF,EQ-DIV,Equity : Dividend Yield,9126.0,1.78,15.25,20.6,12.73,0.95,12.0,-0.4,0.96
+UTI Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,182.0,0.27,11.09,20.73,20.24,0.59,11.36,1.0,1.02
+UTI Nifty Next 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,29038.0,0.06,14.34,12.16,20.36,1.56,12.63,0.81,1.0
+UTI Nifty 100 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,32344.0,0.41,21.23,15.38,23.34,0.75,20.78,-0.54,1.01
+UTI Nifty Midcap 150 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,27996.0,0.43,10.04,21.9,12.01,1.01,13.75,-0.95,0.99
+UTI Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,9292.0,0.18,24.53,21.61,19.8,1.37,11.43,0.66,1.02
+UTI Nifty Bank ETF,Index Fund,EQ-ETF,Equity : ETF,18578.0,0.19,12.3,11.44,18.76,0.87,15.56,0.89,1.02
+UTI Nifty IT ETF,Index Fund,EQ-ETF,Equity : ETF,12028.0,0.31,22.36,18.55,14.84,0.51,21.63,0.31,1.01
+UTI Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,22527.0,1.74,38.1,34.01,29.78,1.33,27.48,5.05,0.8
+UTI IT Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,7117.0,0.65,29.21,39.84,19.91,2.05,21.11,6.21,1.19
+UTI Pharma Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,6935.0,2.38,21.01,20.58,20.78,0.99,18.8,2.54,0.87
+UTI Infrastructure Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,15730.0,2.12,43.22,13.88,37.66,2.3,20.09,4.7,1.15
+UTI Consumption Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,25572.0,2.27,15.11,15.86,42.04,1.64,23.47,3.69,1.03
+UTI Arbitrage Fund-Reg(G),Equity MF,EQ-ARB,Equity : Arbitrage,392.0,0.5,7.79,6.53,6.51,2.44,1.54,-0.42,0.05
+Aditya Birla SL Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,49146.0,1.58,16.2,12.21,12.93,1.06,13.49,1.1,0.97
+Aditya Birla SL Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,9958.0,0.79,34.51,27.17,16.9,1.68,15.06,-0.51,1.09
+Aditya Birla SL Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,7410.0,1.67,37.79,27.94,36.28,2.19,19.34,-1.44,0.85
+Aditya Birla SL Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,53475.0,1.65,20.25,24.84,25.86,1.2,14.79,4.49,0.96
+Aditya Birla SL Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,4601.0,0.65,29.89,18.92,17.75,1.97,16.48,-0.72,0.99
+Aditya Birla SL Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,14146.0,2.33,14.93,14.75,16.57,1.2,15.36,-0.99,0.94
+Aditya Birla SL ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,31665.0,2.1,24.06,18.48,16.94,1.98,15.31,3.78,0.91
+Aditya Birla SL Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,2750.0,1.17,19.62,13.63,24.99,2.05,15.93,0.23,0.99
+Aditya Birla SL Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,2411.0,1.79,21.17,19.94,17.54,0.61,14.95,2.59,0.83
+Aditya Birla SL Contra Fund-Reg(G),Equity MF,EQ-CONT,Equity : Contra,9577.0,1.25,19.79,22.99,17.57,1.64,16.7,-0.18,0.91
+Aditya Birla SL Dividend Yield Fund-Reg(G),Equity MF,EQ-DIV,Equity : Dividend Yield,2872.0,2.2,23.16,15.48,15.32,1.35,11.16,1.8,0.78
+Aditya Birla SL Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,34986.0,0.29,22.47,19.04,18.52,1.22,19.76,-0.09,1.01
+Aditya Birla SL Nifty Next 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,3359.0,0.1,19.9,19.77,17.23,1.28,12.97,0.25,1.01
+Aditya Birla SL Nifty 100 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,38950.0,0.47,10.62,19.36,20.6,0.83,17.79,-0.23,1.0
+Aditya Birla SL Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,21721.0,0.33,20.56,15.01,14.04,1.24,10.34,0.86,1.0
+Aditya Birla SL Nifty Bank ETF,Index Fund,EQ-ETF,Equity : ETF,16120.0,0.17,11.2,20.16,13.75,0.99,12.28,-0.7,1.0
+Aditya Birla SL Nifty IT ETF,Index Fund,EQ-ETF,Equity : ETF,2411.0,0.43,12.51,20.74,17.36,1.31,13.89,0.4,1.01
+Aditya Birla SL Nifty 100 ETF,Index Fund,EQ-ETF,Equity : ETF,5736.0,0.02,11.52,20.97,14.69,0.54,15.53,-0.64,1.01
+Aditya Birla SL Midcap Select ETF,Index Fund,EQ-ETF,Equity : ETF,24826.0,0.43,7.87,10.8,13.41,1.27,16.03,0.49,1.0
+Aditya Birla SL Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,15545.0,1.75,28.41,17.14,24.35,0.58,27.57,7.9,0.93
+Aditya Birla SL IT Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,29431.0,2.24,21.0,32.29,43.81,0.68,25.99,-2.95,1.1
+Aditya Birla SL Pharma Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,5549.0,2.23,47.2,25.38,25.3,0.91,29.66,9.14,1.2
+Aditya Birla SL Infrastructure Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,23830.0,2.04,8.27,31.21,17.31,1.89,29.2,-2.28,0.76
+Aditya Birla SL Consumption Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,7892.0,1.59,47.99,31.41,32.75,1.37,22.0,-0.42,1.22
+Aditya Birla SL International Fund-Reg(G),Equity MF,EQ-INT,Equity : International,6788.0,0.5,6.79,21.9,27.39,1.68,24.25,5.23,1.08
+Aditya Birla SL Arbitrage Fund-Reg(G),Equity MF,EQ-ARB,Equity : Arbitrage,9456.0,0.63,6.02,5.33,5.08,1.95,0.64,-0.14,0.09
+Tata Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,28463.0,2.11,23.74,11.72,13.75,1.01,14.83,1.71,0.87
+Tata Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,3422.0,0.95,13.37,21.41,27.84,1.83,14.35,-0.8,1.05
+Tata Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,23027.0,1.76,12.34,16.45,38.24,1.63,22.75,5.32,1.13
+Tata Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,29594.0,1.29,9.11,13.28,26.21,1.34,13.75,5.98,0.99
+Tata Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,11432.0,1.45,7.33,13.42,29.36,1.23,17.91,1.42,1.01
+Tata Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,8789.0,1.02,10.3,20.93,25.06,1.73,14.29,2.11,1.0
+Tata ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,21842.0,0.68,23.18,18.76,26.04,1.79,17.26,3.29,0.92
+Tata Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,10640.0,1.83,26.73,19.9,20.98,1.61,18.75,5.22,1.05
+Tata Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,11970.0,0.74,16.48,16.88,17.38,1.66,16.31,-1.7,0.99
+Tata Contra Fund-Reg(G),Equity MF,EQ-CONT,Equity : Contra,14574.0,2.03,15.22,12.14,22.84,1.7,15.94,1.71,1.04
+Tata Dividend Yield Fund-Reg(G),Equity MF,EQ-DIV,Equity : Dividend Yield,8528.0,1.62,17.07,11.0,19.01,1.59,14.04,2.87,0.92
+Tata Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,3321.0,0.11,24.14,14.95,22.4,1.17,21.07,0.53,0.99
+Tata Nifty Next 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,33017.0,0.13,26.84,13.72,14.87,1.29,21.87,0.09,1.0
+Tata Nifty 100 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,1132.0,0.06,20.49,9.26,11.88,1.19,10.47,-0.66,0.98
+Tata Nifty Midcap 150 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,23313.0,0.08,8.37,10.18,21.01,1.05,10.94,0.11,1.0
+Tata Nifty Smallcap 250 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,10043.0,0.22,12.39,19.52,12.8,1.49,10.45,0.74,0.99
+Tata Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,15925.0,0.2,15.34,10.94,11.63,1.46,19.24,-0.58,0.98
+Tata Nifty Bank ETF,Index Fund,EQ-ETF,Equity : ETF,20715.0,0.04,22.25,16.16,19.93,1.59,19.23,-0.55,0.99
+Tata Nifty IT ETF,Index Fund,EQ-ETF,Equity : ETF,3860.0,0.35,7.96,10.82,11.98,0.99,20.91,0.89,1.01
+Tata Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,5375.0,0.7,9.24,12.27,43.47,0.8,22.82,-1.51,1.17
+Tata IT Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,27633.0,1.73,29.86,34.48,18.58,2.42,21.94,-0.28,0.98
+Tata Pharma Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,24436.0,1.89,28.05,20.64,36.79,1.81,23.89,-2.75,0.78
+Tata Arbitrage Fund-Reg(G),Equity MF,EQ-ARB,Equity : Arbitrage,520.0,0.92,7.39,6.11,6.92,1.44,0.53,-0.48,0.07
+Motilal Oswal Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,57502.0,2.09,15.84,12.2,15.28,1.76,15.45,-0.06,0.97
+Motilal Oswal Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,20878.0,1.67,11.84,25.75,20.39,1.58,15.35,2.83,0.91
+Motilal Oswal Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,11130.0,1.69,40.85,22.28,37.17,1.1,17.47,7.14,1.0
+Motilal Oswal Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,35722.0,1.4,13.48,13.09,13.6,0.87,16.08,3.25,0.93
+Motilal Oswal Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,12833.0,1.64,31.1,14.2,27.85,1.89,18.52,1.24,0.96
+Motilal Oswal Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,3409.0,1.74,29.52,22.77,16.43,0.87,14.71,1.31,1.05
+Motilal Oswal ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,15221.0,1.17,20.17,16.81,18.08,1.23,12.92,-0.07,0.99
+Motilal Oswal Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,7909.0,1.99,26.46,20.15,19.5,0.82,17.42,3.99,0.98
+Motilal Oswal Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,2970.0,1.35,25.7,14.78,22.15,1.27,12.02,-1.63,0.88
+Motilal Oswal Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,29053.0,0.48,19.79,17.77,16.45,1.54,13.03,0.12,1.0
+Motilal Oswal Nifty Next 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,49533.0,0.3,14.44,19.73,20.42,1.18,19.02,-0.33,1.01
+Motilal Oswal Nifty 100 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,5031.0,0.32,20.38,16.34,12.1,1.53,15.31,0.17,0.99
+Motilal Oswal Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,4584.0,0.42,7.01,14.63,14.26,0.91,19.24,-0.2,0.99
+Motilal Oswal Nifty Bank ETF,Index Fund,EQ-ETF,Equity : ETF,12107.0,0.22,5.39,20.48,20.54,0.6,16.52,-0.92,1.02
+Motilal Oswal Nifty IT ETF,Index Fund,EQ-ETF,Equity : ETF,15608.0,0.02,22.1,13.71,23.25,1.4,10.46,-0.05,0.98
+Motilal Oswal Nifty 100 ETF,Index Fund,EQ-ETF,Equity : ETF,5478.0,0.06,8.46,10.31,20.37,1.35,18.36,0.4,0.99
+Motilal Oswal Midcap Select ETF,Index Fund,EQ-ETF,Equity : ETF,23550.0,0.05,15.13,14.58,12.12,1.36,16.45,0.75,1.01
+Motilal Oswal Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,12249.0,1.41,22.77,12.3,16.59,1.27,20.14,1.82,1.03
+Motilal Oswal IT Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,8611.0,2.05,8.12,24.59,27.12,2.46,16.05,6.21,1.05
+Motilal Oswal Pharma Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,8437.0,2.19,28.6,12.78,17.04,0.78,20.23,8.18,1.09
+Motilal Oswal Infrastructure Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,4089.0,2.3,49.99,30.58,15.11,1.61,25.98,0.62,0.9
+Motilal Oswal International Fund-Reg(G),Equity MF,EQ-INT,Equity : International,6773.0,1.26,15.05,15.59,33.05,1.27,16.14,0.6,0.91
+Canara Robeco Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,34498.0,0.98,17.14,14.45,23.64,1.44,14.43,-1.41,1.05
+Canara Robeco Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,13741.0,1.82,21.66,23.05,27.39,1.61,19.58,0.74,1.05
+Canara Robeco Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,3564.0,1.56,21.04,25.18,32.84,0.97,18.08,-1.41,1.14
+Canara Robeco Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,1109.0,1.47,22.84,22.77,16.92,1.44,13.29,1.45,0.95
+Canara Robeco Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,13258.0,1.32,7.5,20.14,13.77,1.24,17.13,0.81,0.93
+Canara Robeco Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,7938.0,2.12,10.81,19.56,16.9,1.54,20.01,2.55,0.98
+Canara Robeco ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,8049.0,0.57,18.28,22.61,14.37,1.46,13.38,1.02,1.03
+Canara Robeco Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,7470.0,1.92,10.95,13.89,23.54,2.15,12.89,1.67,0.96
+Canara Robeco Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,2378.0,0.66,28.96,16.15,20.3,0.54,14.07,0.29,0.81
+Canara Robeco Contra Fund-Reg(G),Equity MF,EQ-CONT,Equity : Contra,444.0,2.38,23.97,20.69,12.91,1.37,16.04,2.6,0.91
+Canara Robeco Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,49224.0,0.26,14.62,17.9,19.82,1.06,17.41,-0.98,0.99
+Canara Robeco Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,17172.0,0.15,15.57,11.92,21.35,1.23,19.35,0.89,1.02
+Canara Robeco Nifty Bank ETF,Index Fund,EQ-ETF,Equity : ETF,3794.0,0.44,12.41,20.73,12.1,0.76,20.47,-0.08,0.99
+Canara Robeco Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,1389.0,1.07,22.67,35.51,24.74,1.7,17.96,6.51,1.04
+Canara Robeco Arbitrage Fund-Reg(G),Equity MF,EQ-ARB,Equity : Arbitrage,616.0,1.05,7.28,6.87,5.8,1.36,1.98,-0.24,0.09
+PGIM India Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,79651.0,0.62,16.5,14.2,21.39,1.32,10.1,0.6,1.01
+PGIM India Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,444.0,2.3,9.9,15.93,27.42,1.26,19.96,1.88,0.98
+PGIM India Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,2656.0,1.26,39.23,15.93,36.86,2.11,20.29,8.76,1.14
+PGIM India Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,16255.0,1.14,9.17,14.7,13.16,1.31,15.01,5.03,0.86
+PGIM India Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,10482.0,2.06,26.75,25.61,23.58,0.62,13.57,2.92,0.99
+PGIM India Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,13068.0,1.43,30.78,26.71,14.57,1.17,15.08,1.95,0.94
+PGIM India ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,7568.0,2.14,21.15,16.4,26.78,1.54,15.9,0.15,0.94
+PGIM India Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,8772.0,1.81,6.34,21.44,26.43,1.83,18.29,5.0,1.02
+PGIM India Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,9760.0,0.94,20.17,13.82,19.15,1.66,15.75,-1.96,0.84
+PGIM India Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,20902.0,0.4,20.94,11.79,17.35,0.55,15.35,0.57,0.99
+PGIM India Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,2534.0,0.1,8.79,12.69,23.05,1.14,21.01,-0.12,1.02
+PGIM India Nifty Bank ETF,Index Fund,EQ-ETF,Equity : ETF,17138.0,0.07,22.33,17.07,15.94,0.91,14.9,-0.31,1.0
+PGIM India Nifty IT ETF,Index Fund,EQ-ETF,Equity : ETF,2516.0,0.1,22.29,10.25,23.18,0.56,20.42,0.21,1.02
+PGIM India Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,26294.0,1.0,13.21,10.09,39.02,2.35,23.29,6.27,1.07
+PGIM India IT Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,15401.0,2.02,31.07,30.07,21.67,1.51,16.73,5.49,1.25
+PGIM India Pharma Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,13860.0,0.93,38.69,22.22,28.63,1.53,25.3,-2.26,1.18
+PGIM India International Fund-Reg(G),Equity MF,EQ-INT,Equity : International,5935.0,1.08,21.95,24.51,30.03,1.98,18.98,2.65,0.95
+PGIM India Arbitrage Fund-Reg(G),Equity MF,EQ-ARB,Equity : Arbitrage,442.0,0.54,6.54,5.68,5.03,1.35,1.61,0.32,0.03
+Sundaram Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,4213.0,2.08,25.46,15.77,17.5,1.92,13.38,3.39,0.94
+Sundaram Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,28639.0,0.75,34.82,19.27,16.65,1.95,13.35,5.28,1.02
+Sundaram Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,17032.0,1.21,35.05,28.27,20.24,1.99,17.44,7.33,1.12
+Sundaram Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,16742.0,1.43,12.58,20.79,15.5,1.18,11.62,5.34,1.08
+Sundaram Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,5884.0,1.41,29.45,22.61,20.98,0.96,18.04,5.78,0.99
+Sundaram Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,11998.0,2.25,25.24,13.86,30.86,1.36,13.67,6.7,0.97
+Sundaram ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,39060.0,0.56,13.0,11.29,20.31,1.73,16.85,-1.33,1.08
+Sundaram Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,10918.0,1.24,30.33,26.8,27.47,1.22,15.81,3.11,0.85
+Sundaram Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,17719.0,1.61,25.27,13.21,15.7,1.18,11.44,-0.54,0.84
+Sundaram Dividend Yield Fund-Reg(G),Equity MF,EQ-DIV,Equity : Dividend Yield,5697.0,1.69,18.42,10.87,24.0,0.81,12.25,2.17,0.97
+Sundaram Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,34396.0,0.1,15.74,11.99,18.74,1.47,14.43,-0.23,1.0
+Sundaram Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,12724.0,0.03,18.81,9.22,14.38,1.52,14.28,0.69,0.98
+Sundaram Nifty Bank ETF,Index Fund,EQ-ETF,Equity : ETF,22975.0,0.35,17.13,9.35,12.1,0.65,14.46,-0.5,0.99
+Sundaram Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,21158.0,0.69,18.0,31.46,39.32,1.51,27.0,4.66,1.18
+Sundaram IT Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,22805.0,1.36,46.64,36.42,12.16,1.81,25.76,0.66,0.89
+Sundaram Arbitrage Fund-Reg(G),Equity MF,EQ-ARB,Equity : Arbitrage,11969.0,0.34,6.32,6.49,5.6,1.08,1.68,0.07,0.14
+Bandhan Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,24912.0,0.9,9.13,17.54,17.72,0.62,14.77,1.15,0.97
+Bandhan Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,13633.0,1.25,19.85,13.32,17.91,0.85,18.49,5.2,0.94
+Bandhan Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,8821.0,2.15,17.75,34.12,25.27,1.92,21.44,6.81,0.8
+Bandhan Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,54827.0,0.92,19.35,17.77,18.6,1.63,17.01,-1.66,0.94
+Bandhan Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,4699.0,1.28,31.47,16.19,13.38,1.5,17.43,0.85,0.85
+Bandhan Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,5980.0,1.81,25.65,20.36,23.93,0.62,15.67,2.42,0.86
+Bandhan ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,13344.0,1.64,16.77,11.17,20.72,0.63,14.26,4.07,0.99
+Bandhan Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,14757.0,2.39,10.86,18.37,21.87,1.01,15.48,-0.92,0.89
+Bandhan Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,12863.0,2.09,25.98,15.05,18.14,1.78,11.38,4.75,1.02
+Bandhan Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,38786.0,0.19,14.76,14.55,11.93,0.93,20.9,0.36,1.01
+Bandhan Nifty Next 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,30524.0,0.44,25.42,17.73,21.93,1.08,11.31,-0.74,1.02
+Bandhan Nifty 100 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,18202.0,0.08,23.86,18.93,15.62,0.69,13.79,0.81,1.02
+Bandhan Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,7191.0,0.48,8.09,14.43,23.91,0.66,11.39,0.59,1.0
+Bandhan Nifty Bank ETF,Index Fund,EQ-ETF,Equity : ETF,11875.0,0.02,26.02,9.92,12.99,0.53,15.23,-0.51,1.01
+Bandhan Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,11275.0,2.37,32.22,16.59,24.72,2.19,23.97,1.67,0.77
+Bandhan Arbitrage Fund-Reg(G),Equity MF,EQ-ARB,Equity : Arbitrage,4831.0,0.85,6.34,5.78,5.07,2.55,1.34,-0.48,0.1
+Quant Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,34953.0,2.05,11.29,15.21,12.98,1.4,11.17,0.32,0.86
+Quant Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,29506.0,2.13,16.56,17.88,22.17,1.07,13.37,3.27,0.95
+Quant Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,12223.0,1.1,21.05,22.08,39.0,1.13,16.11,1.78,0.97
+Quant Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,36154.0,1.33,25.21,12.46,14.62,1.98,16.02,1.71,0.98
+Quant Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,3146.0,1.12,27.85,12.2,27.17,0.78,15.79,1.18,0.87
+Quant Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,7253.0,0.87,29.49,20.81,21.05,0.8,17.46,-0.59,0.9
+Quant ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,9273.0,2.47,30.84,25.12,25.06,0.62,17.38,0.42,0.98
+Quant Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,6167.0,1.79,24.66,23.03,25.31,1.55,18.17,-1.65,1.05
+Quant Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,10308.0,1.23,17.23,13.58,13.53,1.29,16.95,-0.68,0.97
+Quant Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,36494.0,0.12,7.85,9.89,23.25,1.43,18.61,0.54,1.01
+Quant Nifty Next 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,5215.0,0.38,17.93,11.54,11.08,1.44,15.95,0.82,0.98
+Quant Nifty 100 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,49692.0,0.21,25.28,19.49,12.75,1.39,12.87,-0.26,0.99
+Quant Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,26330.0,0.12,23.65,20.46,21.95,1.04,10.69,-0.74,0.98
+Quant Nifty Bank ETF,Index Fund,EQ-ETF,Equity : ETF,14728.0,0.3,19.65,9.23,17.16,1.54,13.46,-0.83,1.02
+Quant Nifty IT ETF,Index Fund,EQ-ETF,Equity : ETF,1953.0,0.48,21.15,15.01,18.44,1.22,15.35,0.35,1.0
+Quant Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,9432.0,0.5,32.42,18.46,17.03,2.46,25.05,8.71,1.26
+Invesco India Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,50358.0,1.72,9.34,11.82,23.33,1.47,15.82,1.64,0.85
+Invesco India Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,5200.0,1.77,34.16,26.8,15.24,1.66,17.91,6.07,0.96
+Invesco India Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,16055.0,1.4,44.45,15.76,25.55,1.88,19.26,1.52,1.06
+Invesco India Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,5630.0,0.83,30.38,21.64,27.84,0.85,16.46,1.54,0.96
+Invesco India Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,7466.0,1.98,31.14,16.39,24.05,1.85,18.69,2.04,1.0
+Invesco India Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,8286.0,0.99,8.41,26.08,15.41,1.0,15.96,0.37,0.9
+Invesco India ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,605.0,1.69,30.27,23.73,20.15,1.95,13.81,0.97,0.98
+Invesco India Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,3231.0,1.34,32.42,23.77,21.26,0.97,14.1,5.47,0.93
+Invesco India Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,11286.0,0.75,24.76,22.46,19.81,1.68,13.87,4.58,0.94
+Invesco India Contra Fund-Reg(G),Equity MF,EQ-CONT,Equity : Contra,3364.0,2.02,8.65,23.5,15.26,0.61,16.31,-1.53,0.9
+Invesco India Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,23788.0,0.2,24.04,13.5,14.47,1.33,21.03,0.2,1.01
+Invesco India Nifty Next 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,2727.0,0.35,22.79,16.89,19.09,1.35,21.52,0.71,1.02
+Invesco India Nifty 100 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,47948.0,0.47,18.59,13.5,12.99,1.21,10.99,-0.2,1.01
+Invesco India Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,519.0,0.12,14.43,21.31,12.24,1.14,11.12,0.34,1.01
+Invesco India Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,4836.0,0.58,24.15,21.62,23.68,0.78,21.22,1.5,1.01
+Invesco India IT Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,2618.0,0.74,14.91,25.75,43.7,1.29,16.9,9.2,1.19
+Invesco India Pharma Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,12937.0,0.61,46.56,24.23,26.38,2.33,24.07,1.83,1.06
+Invesco India Arbitrage Fund-Reg(G),Equity MF,EQ-ARB,Equity : Arbitrage,12507.0,0.88,6.4,5.5,5.75,2.12,1.92,0.15,0.08
+Edelweiss Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,21704.0,1.22,18.58,19.49,17.07,1.53,12.03,1.4,0.86
+Edelweiss Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,11480.0,1.02,23.45,12.14,20.1,1.84,18.12,-1.35,0.89
+Edelweiss Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,16622.0,2.43,28.33,34.51,22.01,0.82,23.91,-0.42,0.85
+Edelweiss Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,28735.0,1.77,17.44,20.75,24.31,1.58,13.18,2.0,1.02
+Edelweiss Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,3921.0,0.86,34.08,23.6,22.57,1.94,15.01,4.81,0.95
+Edelweiss Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,4528.0,1.24,22.14,20.21,17.32,1.31,18.86,-0.66,0.91
+Edelweiss ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,18855.0,1.19,24.95,18.63,18.4,0.96,11.18,-1.41,1.04
+Edelweiss Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,4803.0,1.67,23.0,13.31,25.21,1.64,15.01,-1.94,0.97
+Edelweiss Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,16065.0,2.01,11.77,13.15,15.21,1.28,11.92,-1.04,0.85
+Edelweiss Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,49500.0,0.46,18.37,13.86,20.91,0.76,11.78,0.11,0.99
+Edelweiss Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,652.0,0.06,14.94,15.54,14.47,1.07,13.61,0.86,0.99
+Edelweiss Nifty Bank ETF,Index Fund,EQ-ETF,Equity : ETF,11170.0,0.16,6.7,20.37,15.45,0.51,14.24,0.0,0.98
+Edelweiss Nifty IT ETF,Index Fund,EQ-ETF,Equity : ETF,22378.0,0.1,24.98,19.1,14.16,0.57,12.54,0.01,1.01
+Edelweiss Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,11684.0,0.95,41.28,30.28,36.32,1.56,15.25,-1.56,1.25
+Edelweiss International Fund-Reg(G),Equity MF,EQ-INT,Equity : International,8404.0,1.25,39.13,28.63,16.42,1.32,12.8,2.02,0.9
+Edelweiss Arbitrage Fund-Reg(G),Equity MF,EQ-ARB,Equity : Arbitrage,10629.0,0.47,6.44,5.67,6.26,2.93,1.58,-0.24,0.14
+Parag Parikh Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,16804.0,1.34,17.22,15.6,17.26,1.94,15.97,-1.0,0.86
+Parag Parikh Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,1709.0,1.08,15.42,15.13,23.1,1.89,17.55,5.18,1.0
+Parag Parikh Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,356.0,1.7,42.44,17.63,32.1,0.76,16.23,2.68,0.82
+Parag Parikh Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,51278.0,0.57,16.43,13.71,16.59,1.98,13.08,5.72,0.93
+Parag Parikh Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,11541.0,0.63,12.35,22.08,20.53,1.48,16.41,5.11,1.07
+Parag Parikh Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,8285.0,2.18,35.43,13.53,28.26,0.63,17.26,-0.65,1.14
+Parag Parikh ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,10098.0,1.99,26.11,15.62,22.78,1.48,13.39,0.69,0.89
+Parag Parikh Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,5317.0,0.83,6.0,16.44,13.88,1.09,19.95,-0.21,1.05
+Parag Parikh Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,16747.0,1.96,23.4,18.83,17.14,1.51,14.97,0.31,0.99
+Parag Parikh Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,42621.0,0.39,11.95,14.87,21.0,1.19,19.89,0.13,1.0
+Parag Parikh Nifty Next 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,45331.0,0.06,24.33,12.42,11.39,1.13,12.11,-0.32,1.0
+Parag Parikh Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,6236.0,0.18,18.65,15.55,23.36,1.29,13.64,0.05,0.98
+Parag Parikh Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,22066.0,1.84,41.49,29.93,22.15,0.84,14.28,7.6,0.81
+Parag Parikh IT Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,28370.0,1.88,7.44,36.65,36.02,1.85,16.4,-2.55,0.86
+Parag Parikh International Fund-Reg(G),Equity MF,EQ-INT,Equity : International,3581.0,1.84,5.65,15.0,30.54,1.56,22.85,0.77,0.75
+WhiteOak Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,64596.0,1.85,10.66,14.43,14.88,0.86,13.85,-0.8,0.91
+WhiteOak Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,12005.0,0.85,17.47,25.1,15.63,1.59,18.07,-1.1,1.08
+WhiteOak Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,8512.0,1.85,44.6,19.07,38.37,1.36,21.51,5.62,0.99
+WhiteOak Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,48951.0,0.81,25.02,21.71,19.38,1.26,16.26,-0.13,0.95
+WhiteOak Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,10667.0,2.06,23.48,14.34,20.0,1.18,13.62,1.19,0.91
+WhiteOak Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,14249.0,1.43,25.47,17.95,28.94,1.15,18.42,0.68,1.09
+WhiteOak ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,10056.0,2.27,15.31,17.55,27.45,0.99,13.54,-1.85,1.07
+WhiteOak Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,14184.0,1.28,15.7,14.15,19.55,1.57,16.06,3.72,1.04
+WhiteOak Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,12196.0,0.61,25.46,21.22,23.27,1.29,15.73,4.39,0.86
+WhiteOak Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,14212.0,0.32,26.49,14.99,11.88,1.59,18.15,-0.19,1.01
+WhiteOak Nifty Next 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,27693.0,0.3,22.15,17.68,15.6,1.25,16.7,0.91,1.01
+WhiteOak Nifty 100 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,21314.0,0.5,24.23,13.12,21.96,0.62,15.48,-0.3,1.02
+WhiteOak Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,15520.0,0.42,5.38,14.55,20.08,0.74,18.88,-0.24,1.01
+WhiteOak Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,16332.0,2.28,35.84,20.63,28.59,2.07,16.75,8.05,1.06
+Mahindra Manulife Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,27325.0,1.51,19.3,14.03,22.18,1.12,15.1,-1.29,0.85
+Mahindra Manulife Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,23884.0,1.34,11.17,27.06,18.78,1.21,19.6,5.2,1.03
+Mahindra Manulife Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,1721.0,0.78,25.53,23.94,16.63,2.12,24.74,1.67,1.08
+Mahindra Manulife Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,40293.0,2.08,10.9,22.58,25.58,2.0,14.15,0.36,1.04
+Mahindra Manulife Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,17939.0,1.9,7.49,14.73,17.67,0.64,12.18,-0.11,1.07
+Mahindra Manulife Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,12360.0,0.67,14.3,27.46,31.05,1.21,13.52,3.69,0.94
+Mahindra Manulife ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,14610.0,0.99,21.9,17.55,27.94,0.79,16.18,4.18,1.06
+Mahindra Manulife Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,5328.0,1.48,9.22,13.83,13.79,1.11,13.5,0.78,0.93
+Mahindra Manulife Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,3958.0,1.08,21.33,14.72,16.76,0.56,14.98,3.5,0.82
+Mahindra Manulife Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,34048.0,0.21,27.18,11.71,13.36,0.66,20.31,-0.95,1.01
+Mahindra Manulife Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,2985.0,0.34,19.66,13.18,18.47,0.68,15.27,0.64,1.01
+Mahindra Manulife Nifty Bank ETF,Index Fund,EQ-ETF,Equity : ETF,8836.0,0.38,13.39,19.5,11.45,0.65,15.58,-0.83,1.01
+Mahindra Manulife Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,14770.0,1.22,11.77,16.94,32.86,2.46,26.27,7.75,1.05
+Mahindra Manulife IT Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,1461.0,2.13,27.92,35.0,22.94,0.6,16.52,7.02,0.79
+Mahindra Manulife Pharma Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,5017.0,1.43,25.82,30.15,18.31,2.23,17.69,9.75,0.72
+Mahindra Manulife Arbitrage Fund-Reg(G),Equity MF,EQ-ARB,Equity : Arbitrage,6174.0,0.62,7.74,6.19,5.04,1.31,1.01,-0.37,0.05
+Bajaj Finserv Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,29091.0,1.14,21.07,13.69,19.71,1.99,10.04,0.08,0.86
+Bajaj Finserv Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,9706.0,0.97,18.93,26.56,29.88,1.94,18.06,6.01,0.86
+Bajaj Finserv Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,17557.0,1.58,11.27,31.08,35.34,1.26,22.22,5.8,1.1
+Bajaj Finserv Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,23366.0,0.75,19.36,15.4,22.3,1.37,14.05,3.53,1.1
+Bajaj Finserv Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,13900.0,2.25,25.08,14.22,24.46,0.8,16.95,5.39,1.05
+Bajaj Finserv Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,10876.0,2.13,11.38,17.29,19.38,1.9,16.52,-0.87,1.01
+Bajaj Finserv ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,18866.0,2.29,17.49,12.76,26.35,1.28,17.21,4.82,1.08
+Bajaj Finserv Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,11120.0,1.12,14.71,19.16,22.08,1.49,12.17,3.18,0.88
+Bajaj Finserv Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,856.0,1.24,19.24,17.86,18.16,0.97,16.28,1.85,1.04
+Bajaj Finserv Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,26918.0,0.24,20.98,14.09,22.83,1.01,16.98,-0.13,0.99
+Bajaj Finserv Nifty Next 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,35161.0,0.27,11.28,19.99,11.2,1.16,19.69,0.04,1.01
+Bajaj Finserv Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,12779.0,0.1,24.14,13.88,13.84,1.02,14.0,0.87,1.01
+Bajaj Finserv Nifty Bank ETF,Index Fund,EQ-ETF,Equity : ETF,7639.0,0.36,16.6,11.16,15.67,0.67,17.18,-0.14,1.01
+Bajaj Finserv Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,14616.0,1.3,24.93,23.91,20.58,0.9,23.88,4.13,1.03
+Bajaj Finserv IT Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,16423.0,2.13,25.04,35.47,14.66,1.59,29.92,5.55,1.0
+Bajaj Finserv Pharma Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,24740.0,1.8,39.74,24.3,24.68,0.84,16.33,6.27,0.83
+Bajaj Finserv Arbitrage Fund-Reg(G),Equity MF,EQ-ARB,Equity : Arbitrage,14827.0,0.43,7.4,5.9,6.39,2.16,1.29,-0.41,0.09
+JM Financial Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,36258.0,1.04,19.92,21.86,23.3,1.88,10.77,0.13,1.02
+JM Financial Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,27287.0,1.52,20.4,25.14,27.86,1.75,15.41,3.7,1.08
+JM Financial Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,24872.0,1.17,29.42,14.96,23.94,1.64,22.15,-2.0,0.88
+JM Financial Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,43193.0,2.26,18.74,20.5,26.53,0.6,11.28,4.84,0.94
+JM Financial Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,5400.0,0.61,16.95,22.09,22.87,1.97,18.58,1.79,1.04
+JM Financial Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,9608.0,1.23,36.99,23.91,21.35,0.72,18.21,-1.41,1.12
+JM Financial ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,38936.0,0.62,23.27,13.24,19.59,1.02,15.9,3.15,0.91
+JM Financial Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,446.0,0.75,28.41,14.06,29.7,0.81,17.47,0.83,1.07
+JM Financial Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,668.0,0.79,13.41,19.75,21.75,1.58,17.52,4.95,0.9
+JM Financial Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,29281.0,0.38,10.97,17.75,15.25,0.7,17.33,0.18,0.98
+JM Financial Nifty Next 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,44400.0,0.06,14.4,12.66,15.91,1.56,12.96,0.33,0.99
+JM Financial Nifty 100 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,19897.0,0.08,16.44,21.05,23.33,1.3,14.9,0.78,0.98
+JM Financial Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,6350.0,0.16,21.99,9.36,20.32,1.49,14.92,0.75,1.02
+JM Financial Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,5352.0,1.98,24.35,32.79,13.24,0.45,21.78,1.69,1.09
+JM Financial IT Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,7449.0,1.97,17.63,31.01,13.93,0.48,23.9,5.33,0.72
+LIC Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,21937.0,0.77,21.18,17.56,16.92,0.84,15.27,0.06,0.99
+LIC Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,18912.0,0.68,22.22,12.94,19.1,1.49,18.1,4.61,0.95
+LIC Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,13360.0,1.84,33.4,34.32,16.73,0.98,16.41,6.78,0.98
+LIC Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,36762.0,2.04,21.62,11.1,23.25,1.86,14.08,0.61,0.88
+LIC Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,17137.0,0.97,10.32,25.05,18.37,1.45,18.02,0.53,0.93
+LIC Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,14427.0,1.72,22.92,28.53,20.21,0.94,17.36,-1.18,0.94
+LIC ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,33563.0,1.71,20.28,12.54,27.94,1.38,14.95,3.08,0.89
+LIC Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,5096.0,0.79,13.82,25.69,22.02,1.94,16.96,5.92,0.95
+LIC Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,9634.0,2.06,21.53,13.27,22.41,0.82,16.12,4.21,1.01
+LIC Dividend Yield Fund-Reg(G),Equity MF,EQ-DIV,Equity : Dividend Yield,6224.0,1.33,19.52,18.64,14.83,0.84,14.26,2.46,0.8
+LIC Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,22656.0,0.13,9.17,12.21,11.62,0.86,19.2,0.19,1.01
+LIC Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,2702.0,0.29,8.37,15.6,11.3,1.39,20.83,-0.42,1.01
+LIC Nifty Bank ETF,Index Fund,EQ-ETF,Equity : ETF,10664.0,0.19,6.52,20.71,23.56,0.91,18.0,-0.85,1.02
+LIC Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,4773.0,1.97,9.2,15.35,33.94,1.74,25.99,-2.25,0.99
+LIC Arbitrage Fund-Reg(G),Equity MF,EQ-ARB,Equity : Arbitrage,6688.0,0.42,6.06,6.1,5.34,2.92,1.1,-0.14,0.13
+HSBC Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,56460.0,1.25,17.95,10.5,22.22,1.77,14.25,-0.85,0.99
+HSBC Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,17455.0,1.65,13.88,24.07,29.32,1.88,15.65,4.52,0.97
+HSBC Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,4372.0,1.81,34.38,26.26,28.57,1.82,16.93,8.11,0.9
+HSBC Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,24232.0,0.98,6.33,17.8,24.03,1.74,14.22,3.47,0.88
+HSBC Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,1867.0,1.75,19.61,20.13,19.84,1.92,16.21,1.68,0.86
+HSBC Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,2045.0,1.38,26.12,13.62,20.08,1.14,17.96,1.11,1.05
+HSBC ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,19089.0,1.99,27.16,21.27,26.11,1.87,13.42,1.81,0.92
+HSBC Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,9925.0,2.04,15.86,21.45,23.18,0.94,13.95,5.99,0.88
+HSBC Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,8778.0,1.7,18.04,16.83,12.69,0.58,17.14,0.33,0.8
+HSBC Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,27980.0,0.18,17.0,11.89,16.63,0.68,20.79,-1.0,0.98
+HSBC Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,8976.0,0.25,14.34,13.43,21.37,1.39,19.29,0.93,0.98
+HSBC Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,20843.0,1.94,9.5,16.77,44.58,2.18,22.49,-1.61,1.28
+HSBC Arbitrage Fund-Reg(G),Equity MF,EQ-ARB,Equity : Arbitrage,2344.0,0.89,7.76,5.2,6.12,2.16,0.74,0.04,0.13
+Navi Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,31064.0,0.77,25.73,17.85,21.07,1.31,11.95,-0.9,0.99
+Navi Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,23568.0,2.19,24.15,16.05,17.78,0.95,16.75,4.27,0.92
+Navi Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,3236.0,1.47,39.47,25.93,31.01,2.08,24.44,0.36,0.83
+Navi Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,42299.0,0.7,27.91,18.89,17.16,1.49,15.0,0.65,1.01
+Navi Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,4919.0,1.89,12.86,23.83,26.27,0.71,13.49,-0.1,1.02
+Navi Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,10539.0,0.62,34.71,23.05,29.08,1.21,19.32,5.66,1.09
+Navi ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,36799.0,2.32,29.38,18.15,19.88,0.86,11.42,0.12,0.9
+Navi Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,5796.0,1.76,29.77,13.2,21.59,0.91,16.65,3.81,0.99
+Navi Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,19962.0,1.46,28.41,16.99,13.11,0.81,13.44,0.37,0.92
+Navi Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,38505.0,0.17,7.86,16.52,11.7,0.92,12.58,0.15,0.99
+Navi Nifty Next 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,31746.0,0.13,13.03,18.91,18.84,1.22,18.62,0.11,1.02
+Navi Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,27775.0,0.04,19.43,21.36,19.81,1.11,10.27,-0.41,1.0
+Navi Nifty Bank ETF,Index Fund,EQ-ETF,Equity : ETF,23179.0,0.43,21.26,21.13,21.55,1.26,18.63,-0.42,1.01
+Navi Nifty IT ETF,Index Fund,EQ-ETF,Equity : ETF,12987.0,0.24,27.07,12.03,23.19,1.2,13.01,-0.44,0.98
+Navi Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,28244.0,2.15,29.61,26.71,13.97,1.19,25.78,3.9,0.85
+Groww Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,69092.0,0.66,21.4,17.99,12.85,1.32,12.53,4.1,1.01
+Groww Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,15063.0,1.92,25.41,27.87,19.82,1.07,15.61,6.61,0.87
+Groww Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,4098.0,1.12,30.31,19.64,16.71,0.96,16.12,0.8,1.08
+Groww Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,9378.0,0.6,24.27,15.08,20.82,1.17,12.95,1.21,0.88
+Groww Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,14492.0,0.76,25.47,23.59,20.43,1.0,12.67,-1.13,0.88
+Groww Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,8081.0,0.83,24.8,14.92,23.53,1.08,17.77,0.49,1.11
+Groww ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,14061.0,2.13,10.99,19.69,16.41,0.78,11.52,-0.97,1.1
+Groww Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,8509.0,0.69,12.88,17.8,23.82,1.87,17.56,4.21,0.97
+Groww Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,17240.0,1.91,12.42,22.59,22.93,1.36,15.79,3.95,0.85
+Groww Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,25033.0,0.16,11.43,17.97,14.52,0.7,19.15,0.14,0.98
+Groww Nifty Next 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,38415.0,0.3,9.36,10.24,17.68,1.28,15.7,0.3,0.99
+Groww Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,17346.0,0.49,11.48,21.28,15.48,0.98,15.36,0.56,1.0
+Groww Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,29424.0,1.63,8.97,27.41,35.47,2.27,22.62,2.76,0.99
+360 ONE Large Cap Fund-Reg(G),Equity MF,EQ-LC,Equity : Large Cap,48174.0,1.84,11.69,17.58,19.02,1.05,15.63,0.64,1.02
+360 ONE Mid Cap Fund-Reg(G),Equity MF,EQ-MC,Equity : Mid Cap,19849.0,1.11,21.87,15.07,29.81,0.61,15.25,-1.6,0.89
+360 ONE Small Cap Fund-Reg(G),Equity MF,EQ-SC,Equity : Small Cap,13913.0,1.71,20.76,21.32,21.55,1.53,22.24,8.41,1.13
+360 ONE Flexi Cap Fund-Reg(G),Equity MF,EQ-FC,Equity : Flexi Cap,6125.0,1.11,19.18,20.11,17.48,1.64,13.09,4.4,0.94
+360 ONE Large & Mid Cap Fund-Reg(G),Equity MF,EQ-MLC,Equity : Large & Mid Cap,912.0,0.69,26.98,14.89,29.8,1.84,16.32,5.7,1.02
+360 ONE Multi Cap Fund-Reg(G),Equity MF,EQ-MCap,Equity : Multi Cap,13211.0,1.14,20.37,15.94,31.96,1.51,13.63,-0.62,0.92
+360 ONE ELSS Tax Saver-Reg(G),Equity MF,EQ-ELSS,Equity : ELSS,30941.0,0.56,14.83,19.87,25.46,1.97,16.27,2.81,0.99
+360 ONE Focused Fund-Reg(G),Equity MF,EQ-FBS,Equity : Focused,5759.0,1.3,20.57,17.75,24.42,0.62,18.5,0.54,0.99
+360 ONE Value Fund-Reg(G),Equity MF,EQ-VAL,Equity : Value,16029.0,0.5,19.06,23.0,25.93,0.53,17.15,3.92,0.89
+360 ONE Nifty 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,1822.0,0.07,19.16,9.18,19.32,1.28,19.04,-0.86,0.98
+360 ONE Nifty Next 50 Index Fund-Reg(G),Index Fund,EQ-IDX,Equity : Index,19838.0,0.26,12.75,17.56,17.69,1.09,20.87,0.37,1.01
+360 ONE Nifty 50 ETF,Index Fund,EQ-ETF,Equity : ETF,27737.0,0.07,15.77,14.46,22.95,1.08,12.65,0.86,0.99
+360 ONE Nifty Bank ETF,Index Fund,EQ-ETF,Equity : ETF,28726.0,0.08,13.0,10.51,18.18,1.47,10.89,-0.97,1.0
+360 ONE Banking Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,7285.0,2.2,18.37,23.03,40.56,1.72,15.99,5.04,1.08
+360 ONE IT Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,29102.0,1.02,44.87,22.75,18.14,0.57,15.29,3.66,0.89
+360 ONE Pharma Fund-Reg(G),Equity MF,EQ-SEC,Equity : Sectoral/Thematic,2002.0,1.68,35.89,28.25,19.36,2.12,15.36,8.87,0.97
+360 ONE Dynamic Bond Fund-Reg(G),Debt MF,DT-DYN,Debt : Dynamic Bond,626.0,0.52,6.9,8.14,6.98,0.28,1.89,,
+360 ONE Liquid Fund-Reg(G),Debt MF,DT-LIQ,Debt : Liquid,1283.0,0.32,6.02,6.72,5.74,0.13,0.19,,
+Aditya Birla SL Banking & PSU Debt Fund(G),Debt MF,DT-B&PSU,Debt : Banking & PSU,8992.0,0.73,6.22,7.09,6.11,0.14,1.24,,
+Aditya Birla SL Corp Bond Fund(G),Debt MF,DT-CORP,Debt : Corporate Bond,27913.0,0.52,6.01,7.39,6.4,0.21,1.33,,
+Aditya Birla SL Credit Risk Fund-Reg(G),Debt MF,DT-CR,Debt : Credit Risk,1175.0,1.66,12.68,11.84,9.78,0.5,2.89,,
+Aditya Birla SL CRISIL IBX Gilt - April 2026 Index Fund-Reg(G),Debt MF,DT-MD,Debt : Medium Duration,204.0,0.36,6.22,6.85,,0.19,1.42,,
+Aditya Birla SL CRISIL IBX Gilt Apr 2028 Index Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,21.0,0.79,6.74,7.04,,0.16,0.61,,
+Aditya Birla SL CRISIL IBX Gilt Apr 2029 Index Fund-Reg(G),Debt MF,DT-GILT,Debt : Gilt,620.0,0.38,7.01,7.87,,0.28,0.84,,
+Aditya Birla SL Dynamic Bond Fund-Reg(G),Debt MF,DT-DYN,Debt : Dynamic Bond,1886.0,1.23,5.66,7.3,6.84,0.13,2.52,,
+Aditya Birla SL FTP-TI-1837D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,330.0,,6.76,7.45,,0.38,2.22,,
+Aditya Birla SL FTP-TQ-1879D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,231.0,,7.34,7.76,,0.39,0.55,,
+Aditya Birla SL FTP-UB-1224D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,26.0,,6.48,7.1,,0.29,3.66,,
+Aditya Birla SL G-Sec Fund(G),Debt MF,DT-GILT,Debt : Gilt,1583.0,1.14,-0.13,5.51,5.06,-0.04,0.2,,
+Aditya Birla SL Income Fund(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,1966.0,1.11,3.22,6.23,5.65,0.01,3.45,,
+Aditya Birla SL Inv Inc-QS I-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,8.0,,5.96,6.85,5.93,0.33,0.48,,
+Aditya Birla SL Liquid Fund(G),Debt MF,DT-LIQ,Debt : Liquid,51838.0,0.35,6.26,6.9,5.91,0.29,1.8,,
+Aditya Birla SL Low Duration Fund(G),Debt MF,DT-LOWD,Debt : Low Duration,15209.0,1.24,6.48,6.8,5.82,0.14,0.38,,
+Aditya Birla SL Medium Term Plan-Reg(G),Debt MF,DT-MD,Debt : Medium Duration,3070.0,1.56,9.5,9.83,11.95,0.49,0.91,,
+Aditya Birla SL Money Manager Fund(G),Debt MF,DT-MM,Debt : Money Market,30778.0,0.37,6.86,7.37,6.31,0.55,0.71,,
+Aditya Birla SL Nifty SDL Plus PSU Bond Sep 2026 60:40 Index Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,8197.0,0.36,6.89,7.3,,0.32,0.18,,
+Aditya Birla SL Nifty SDL Sep 2027 Index Fund-Reg(G),Debt MF,DT-MD,Debt : Medium Duration,40.0,0.49,7.25,7.68,,0.28,1.13,,
+Aditya Birla SL Overnight Fund-Reg(G),Debt MF,DT-ON,Debt : Overnight,9405.0,0.19,5.39,6.2,5.4,-0.73,0.35,,
+Aditya Birla SL Savings Fund-Reg(G),Debt MF,DT-USD,Debt : Ultra Short Duration,21467.0,0.59,7.01,7.36,6.31,0.56,1.05,,
+Axis Credit Risk Fund-Reg(G),Debt MF,DT-CR,Debt : Credit Risk,367.0,1.57,8.21,7.8,6.76,0.47,1.05,,
+Axis CRISIL IBX 50:50 Gilt Plus SDL June 2028 Index Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,68.0,0.35,7.22,7.68,,0.27,1.22,,
+Axis CRISIL IBX 50:50 Gilt Plus SDL Sep 2027 Index Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,36.0,0.4,7.18,7.51,,0.29,0.76,,
+Axis Dynamic Bond Fund-Reg(G),Debt MF,DT-DYN,Debt : Dynamic Bond,1132.0,0.63,5.9,7.32,6.22,0.11,1.0,,
+Axis Floater Fund-Reg(G),Debt MF,DT-FL,Debt : Floater,153.0,0.49,6.25,7.8,,0.2,2.2,,
+Axis FTP-112-1143D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,83.0,,6.37,7.08,,0.23,0.19,,
+Axis Gilt Fund-Reg(G),Debt MF,DT-GILT,Debt : Gilt,588.0,0.83,3.56,7.15,5.66,0.09,0.36,,
+Axis Liquid Fund-Reg(G),Debt MF,DT-LIQ,Debt : Liquid,43636.0,0.21,6.27,6.92,5.94,0.32,0.56,,
+Axis Money Market Fund-Reg(G),Debt MF,DT-MM,Debt : Money Market,23790.0,0.34,6.97,7.38,6.27,0.54,0.82,,
+Axis Nifty AAA Bond Plus SDL Apr 2026 50:50 ETF FoF-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,182.0,0.19,6.09,6.97,,0.06,0.18,,
+Axis Nifty SDL Sep 2026 Debt Index Fund-Reg(G),Debt MF,DT-MD,Debt : Medium Duration,69.0,0.31,6.92,7.44,,0.32,1.02,,
+Axis Overnight Fund-Reg(G),Debt MF,DT-ON,Debt : Overnight,10566.0,0.1,5.5,6.3,5.49,-0.58,1.19,,
+Axis Short Duration Fund-Reg(G),Debt MF,DT-SD,Debt : Short Duration,11860.0,0.91,7.05,7.41,6.2,0.25,0.43,,
+Axis Strategic Bond Fund-Reg(G),Debt MF,DT-MD,Debt : Medium Duration,2122.0,1.33,7.38,7.89,6.82,0.35,0.3,,
+Bandhan Banking and PSU Fund-Reg(G),Debt MF,DT-B&PSU,Debt : Banking & PSU,12536.0,0.66,6.15,6.93,5.86,0.14,0.97,,
+Bandhan Corp Bond Fund-Reg(G),Debt MF,DT-CORP,Debt : Corporate Bond,14570.0,0.65,6.39,7.1,5.89,0.16,1.05,,
+Bandhan Credit Risk Fund-Reg(G),Debt MF,DT-CR,Debt : Credit Risk,239.0,1.69,5.22,6.2,5.46,-0.06,0.97,,
+Bandhan CRISIL IBX 90:10 SDL Plus Gilt - Nov 2026 Index Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,97.0,0.35,6.95,7.39,,0.3,2.54,,
+Bandhan CRISIL IBX 90:10 SDL Plus Gilt - Sep 2027 Index Fund-Reg(G),Debt MF,DT-GILT,Debt : Gilt,150.0,0.35,7.28,7.68,,0.3,0.85,,
+Bandhan CRISIL IBX Gilt April 2026 Index Fund-Reg(G),Debt MF,DT-GILT,Debt : Gilt,365.0,0.44,6.09,6.76,,0.16,1.13,,
+Bandhan CRISIL IBX Gilt April 2032 Index Fund-Reg(G),Debt MF,DT-LD,Debt : Long Duration,444.0,0.47,6.47,8.1,,0.22,0.7,,
+Bandhan CRISIL IBX Gilt June 2027 Index Fund-Reg(G),Debt MF,DT-GILT,Debt : Gilt,5972.0,0.46,6.96,7.34,,0.28,1.23,,
+Bandhan Dynamic Bond Fund-Reg(G),Debt MF,DT-DYN,Debt : Dynamic Bond,2196.0,1.59,2.22,6.27,5.09,0.01,4.02,,
+Bandhan Floater Fund-Reg(G),Debt MF,DT-FL,Debt : Floater,272.0,0.77,6.68,7.27,5.97,0.22,0.98,,
+Bandhan FTP-179-3652D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,367.0,,7.6,8.28,7.02,0.27,4.05,,
+Bandhan Gilt Fund with 10 year constant duration Fund-Reg(G),Debt MF,DT-GL10Y,Debt : Gilt (10 Yr Constant Duration),344.0,0.48,5.89,7.94,6.02,0.2,2.67,,
+Bandhan Gilt Fund-Reg(G),Debt MF,DT-GILT,Debt : Gilt,1949.0,1.15,2.83,6.82,5.56,0.05,0.19,,
+Bandhan Low Duration Fund-Reg(G),Debt MF,DT-LOWD,Debt : Low Duration,5926.0,0.66,6.56,6.98,5.88,0.25,1.56,,
+Bandhan Medium Duration Fund-Reg(G),Debt MF,DT-MD,Debt : Medium Duration,1364.0,1.36,5.48,6.58,5.25,0.05,2.5,,
+Bandhan Medium to Long Duration Fund-Reg(G),Debt MF,DT-LD,Debt : Long Duration,461.0,1.99,2.97,5.66,4.54,-0.07,0.35,,
+Bandhan Money Market Fund-Reg(G),Debt MF,DT-MM,Debt : Money Market,14805.0,0.35,6.88,6.98,5.73,0.29,0.18,,
+Bandhan Overnight Fund-Reg(G),Debt MF,DT-ON,Debt : Overnight,891.0,0.15,5.41,6.21,5.4,-0.73,1.16,,
+Bandhan Short Duration Fund-Reg(G),Debt MF,DT-SD,Debt : Short Duration,10283.0,0.83,6.47,7.18,5.88,0.19,0.29,,
+Bank of India Credit Risk Fund-Reg(G),Debt MF,DT-CR,Debt : Credit Risk,106.0,1.38,11.53,7.75,27.12,0.11,2.78,,
+Bank of India Liquid Fund-Reg(G),Debt MF,DT-LIQ,Debt : Liquid,1915.0,0.13,6.31,6.96,5.97,0.37,0.18,,
+Bank of India Overnight Fund-Reg(G),Debt MF,DT-ON,Debt : Overnight,82.0,0.1,5.56,6.37,5.56,-0.46,0.18,,
+Bank of India Short Term Income Fund-Reg(G),Debt MF,DT-SD,Debt : Short Duration,279.0,1.0,6.0,7.1,10.19,0.15,1.38,,
+Bank of India Ultra Short Duration Fund-Reg(G),Debt MF,DT-USD,Debt : Ultra Short Duration,165.0,0.85,6.04,6.35,5.45,-0.17,0.3,,
+Baroda BNP Paribas Corp Bond Fund(G),Debt MF,DT-CORP,Debt : Corporate Bond,366.0,0.58,7.18,7.6,5.72,0.22,1.41,,
+Baroda BNP Paribas Credit Risk Fund-Reg(G),Debt MF,DT-CR,Debt : Credit Risk,187.0,1.61,7.41,7.68,9.23,0.44,0.76,,
+Baroda BNP Paribas Gilt Fund-Reg(G),Debt MF,DT-GILT,Debt : Gilt,1056.0,0.45,3.24,6.97,5.54,0.09,2.56,,
+Baroda BNP Paribas Liquid Fund(G),Debt MF,DT-LIQ,Debt : Liquid,12362.0,0.26,6.16,6.83,5.9,0.22,2.69,,
+Baroda BNP Paribas Low Duration Fund(G),Debt MF,DT-LOWD,Debt : Low Duration,301.0,1.04,6.32,6.71,5.62,0.12,0.19,,
+Baroda BNP Paribas Money Market Fund-Reg(G),Debt MF,DT-MM,Debt : Money Market,4965.0,0.37,6.8,7.07,5.81,0.37,0.41,,
+Baroda BNP Paribas Overnight Fund-Reg(G),Debt MF,DT-ON,Debt : Overnight,766.0,0.13,5.44,6.24,5.44,-0.68,0.95,,
+Baroda BNP Paribas Ultra Short Duration Fund-Reg(G),Debt MF,DT-USD,Debt : Ultra Short Duration,670.0,0.48,6.54,7.09,6.13,0.44,0.18,,
+Canara Rob Banking and PSU Debt Fund-Reg(G),Debt MF,DT-B&PSU,Debt : Banking & PSU,194.0,0.73,5.6,6.61,,0.05,1.12,,
+Canara Rob Corp Bond Fund-Reg(G),Debt MF,DT-CORP,Debt : Corporate Bond,110.0,1.04,5.25,6.39,5.32,-0.02,0.32,,
+Canara Rob Dynamic Bond Fund-Reg(G),Debt MF,DT-DYN,Debt : Dynamic Bond,98.0,1.78,1.8,5.23,4.33,-0.09,1.72,,
+Canara Rob Gilt Fund-Reg(G),Debt MF,DT-GILT,Debt : Gilt,136.0,1.27,1.76,5.8,4.85,-0.04,2.05,,
+Canara Rob Income Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,117.0,1.91,3.08,5.59,4.52,-0.09,2.17,,
+Canara Rob Liquid Fund-Reg(G),Debt MF,DT-LIQ,Debt : Liquid,7457.0,0.15,6.25,6.91,5.92,0.29,2.27,,
+Canara Rob Overnight Fund-Reg(G),Debt MF,DT-ON,Debt : Overnight,315.0,0.09,5.43,6.21,5.43,-0.74,2.57,,
+Canara Rob Savings Fund-Reg(G),Debt MF,DT-LOWD,Debt : Low Duration,1350.0,0.48,6.75,7.07,5.85,0.3,2.59,,
+Canara Rob Short Duration Fund-Reg(G),Debt MF,DT-SD,Debt : Short Duration,366.0,1.02,5.92,6.58,5.35,0.04,1.99,,
+Canara Rob Ultra Short Term Fund-Reg(G),Debt MF,DT-USD,Debt : Ultra Short Duration,563.0,0.97,6.1,6.45,5.33,-0.07,2.31,,
+DSP 10Y G-Sec Fund-Reg(G),Debt MF,DT-GL10Y,Debt : Gilt (10 Yr Constant Duration),56.0,0.52,4.2,7.18,4.97,0.13,1.14,,
+DSP Banking & PSU Debt Fund-Reg(G),Debt MF,DT-B&PSU,Debt : Banking & PSU,3575.0,0.61,5.65,7.04,5.82,0.12,3.09,,
+DSP Bond Fund-Reg(G),Debt MF,DT-MD,Debt : Medium Duration,311.0,0.75,6.13,7.26,6.02,0.17,3.25,,
+DSP Corp Bond Fund-Reg(G),Debt MF,DT-CORP,Debt : Corporate Bond,3411.0,0.53,7.0,7.26,5.55,0.24,2.16,,
+DSP Credit Risk Fund-Reg(G),Debt MF,DT-CR,Debt : Credit Risk,225.0,1.22,5.6,14.21,10.92,0.26,0.19,,
+DSP CRISIL-IBX 50:50 Gilt Plus SDL - April 2033 Index Fund-Reg(G),Debt MF,DT-LD,Debt : Long Duration,323.0,0.4,5.57,7.82,,0.18,0.17,,
+DSP Floater Fund-Reg(G),Debt MF,DT-FL,Debt : Floater,407.0,0.53,6.58,7.93,6.48,0.36,0.45,,
+DSP FMP 264-60M & 17D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,54.0,,7.01,7.54,,0.35,0.93,,
+DSP FMP 267-1246D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,718.0,,6.54,7.19,,0.3,0.31,,
+DSP FMP 270-1144D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,195.0,,6.54,7.19,,0.3,2.45,,
+DSP Gilt Fund-Reg(G),Debt MF,DT-GILT,Debt : Gilt,1389.0,1.16,1.99,6.59,5.65,0.04,1.64,,
+DSP Liquidity Fund-Reg(G),Debt MF,DT-LIQ,Debt : Liquid,21058.0,0.22,6.26,6.89,5.9,0.29,1.43,,
+DSP Nifty SDL Plus G-Sec Jun 2028 30:70 Index Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,1805.0,0.3,7.28,7.72,,0.32,0.86,,
+DSP Nifty SDL Plus G-Sec Sep 2027 50:50 Index Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,89.0,0.32,7.25,7.63,,0.31,6.87,,
+DSP Overnight Fund-Reg(G),Debt MF,DT-ON,Debt : Overnight,3140.0,0.13,5.44,6.24,5.43,-0.66,2.44,,
+DSP Savings Fund-Reg(G),Debt MF,DT-MM,Debt : Money Market,8549.0,0.41,6.59,7.06,5.91,0.38,1.06,,
+DSP Short Term Fund-Reg(G),Debt MF,DT-SD,Debt : Short Duration,3743.0,0.94,6.22,6.95,5.66,0.14,3.61,,
+DSP Strategic Bond Fund-Reg(G),Debt MF,DT-DYN,Debt : Dynamic Bond,885.0,1.22,1.94,6.78,5.5,0.06,0.18,,
+DSP Ultra Short Fund-Reg(G),Debt MF,DT-USD,Debt : Ultra Short Duration,3714.0,1.01,6.07,6.66,5.54,0.08,0.46,,
+Edelweiss Banking and PSU Debt Fund-Reg(G),Debt MF,DT-B&PSU,Debt : Banking & PSU,517.0,0.69,6.12,7.15,6.27,0.13,0.25,,
+Edelweiss CRISIL IBX 50:50 Gilt Plus SDL April 2037 Index Fund-Reg(G),Debt MF,DT-LD,Debt : Long Duration,960.0,0.5,4.54,7.71,,0.13,1.3,,
+Edelweiss CRISIL IBX 50:50 Gilt Plus SDL June 2027 Index Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,95.0,0.44,7.09,7.47,,0.29,1.12,,
+Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Sep 2028 Index Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,140.0,0.46,7.22,7.7,,0.27,0.18,,
+Edelweiss CRISIL IBX 50:50 Gilt Plus SDL Short Duration Index Fund-Reg(G),Debt MF,DT-SD,Debt : Short Duration,133.0,0.6,6.62,7.18,,0.21,0.34,,
+Edelweiss Government Securities Fund-Reg(G),Debt MF,DT-GILT,Debt : Gilt,157.0,1.16,1.25,5.94,5.43,-0.01,0.34,,
+Edelweiss Money Market Fund-Reg(G),Debt MF,DT-DYN,Debt : Dynamic Bond,3027.0,0.71,6.35,6.64,5.39,0.07,2.94,,
+Edelweiss Nifty PSU Bond Plus SDL Apr 2026 50:50 Index Fund-Reg(G),Debt MF,DT-B&PSU,Debt : Banking & PSU,6149.0,0.43,6.68,7.11,6.18,0.28,1.0,,
+Edelweiss Nifty PSU Bond Plus SDL Apr 2027 50:50 Index Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,2233.0,0.44,7.18,7.46,,0.28,1.44,,
+Edelweiss Overnight Fund-Reg(G),Debt MF,DT-ON,Debt : Overnight,210.0,0.16,5.4,6.2,5.4,-0.73,1.14,,
+Franklin India Floating Rate Fund(G),Debt MF,DT-FL,Debt : Floater,314.0,0.94,7.69,7.79,6.35,0.34,3.12,,
+Franklin India G-Sec Fund(G),Debt MF,DT-GILT,Debt : Gilt,176.0,1.23,4.31,5.94,5.12,-0.06,0.19,,
+Franklin India Money Market Fund(G),Debt MF,DT-MM,Debt : Money Market,4352.0,0.28,6.96,7.33,6.15,0.51,0.88,,
+Franklin India Overnight Fund(G),Debt MF,DT-ON,Debt : Overnight,758.0,0.11,5.5,6.24,5.42,-0.73,0.18,,
+Groww Dynamic Bond Fund-Reg(G),Debt MF,DT-DYN,Debt : Dynamic Bond,59.0,1.32,2.14,4.87,4.56,-0.17,1.35,,
+Groww Short Duration Fund-Reg(G),Debt MF,DT-SD,Debt : Short Duration,94.0,1.05,6.31,6.22,4.96,-0.04,0.99,,
+HDFC Banking and PSU Debt Fund-Reg(G),Debt MF,DT-B&PSU,Debt : Banking & PSU,5599.0,0.72,6.32,7.11,6.01,0.15,2.32,,
+HDFC Corp Bond Fund(G),Debt MF,DT-CORP,Debt : Corporate Bond,33200.0,0.62,6.03,7.4,6.27,0.2,0.18,,
+HDFC Floating Rate Debt Fund(G),Debt MF,DT-FL,Debt : Floater,16766.0,0.53,7.17,7.78,6.65,0.48,0.37,,
+HDFC FMP-Sr 46-1359D-Sep 2022-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,342.0,,6.44,7.04,,0.24,0.17,,
+HDFC FMP-Sr 46-1876D-Mar 2022-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,35.0,,7.37,7.75,,0.38,2.45,,
+HDFC Income Fund(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,856.0,1.44,3.88,6.55,5.02,0.04,0.18,,
+HDFC Liquid Fund(G),Debt MF,DT-LIQ,Debt : Liquid,67850.0,0.31,6.23,6.86,5.87,0.24,1.06,,
+HDFC Long Duration Debt Fund-Reg(G),Debt MF,DT-LD,Debt : Long Duration,3923.0,0.62,-0.06,6.1,,0.02,1.24,,
+HDFC Low Duration Fund(G),Debt MF,DT-LOWD,Debt : Low Duration,25582.0,1.09,6.72,7.1,6.01,0.28,1.33,,
+HDFC Medium Term Debt Fund(G),Debt MF,DT-MD,Debt : Medium Duration,3872.0,1.33,6.64,7.33,6.28,0.21,0.94,,
+HDFC Nifty G-Sec Dec 2026 Index Fund-Reg(G),Debt MF,DT-GILT,Debt : Gilt,1158.0,0.35,6.75,7.2,,0.26,2.53,,
+HDFC Nifty G-Sec Jul 2031 Index Fund-Reg(G),Debt MF,DT-GILT,Debt : Gilt,669.0,0.33,6.42,8.14,,0.23,0.69,,
+HDFC Nifty G-Sec Jun 2027 Index Fund-Reg(G),Debt MF,DT-GILT,Debt : Gilt,752.0,0.35,7.09,7.44,,0.3,2.75,,
+HDFC NIFTY G-Sec Jun 2036 Index Fund-Reg(G),Debt MF,DT-LD,Debt : Long Duration,938.0,0.38,5.58,8.36,,0.19,2.49,,
+HDFC Nifty G-Sec Sep 2032 Index Fund-Reg(G),Debt MF,DT-GILT,Debt : Gilt,643.0,0.37,6.27,8.08,,0.22,0.19,,
+HDFC Nifty SDL Oct 2026 Index Fund-Reg(G),Debt MF,DT-MD,Debt : Medium Duration,185.0,0.35,6.82,7.41,,0.32,4.61,,
+HDFC Overnight Fund(G),Debt MF,DT-ON,Debt : Overnight,10920.0,0.22,5.37,6.17,5.37,-0.78,1.3,,
+HDFC Short Term Debt Fund(G),Debt MF,DT-SD,Debt : Short Duration,17271.0,0.7,6.92,7.56,6.36,0.3,0.37,,
+HSBC Banking and PSU Debt Fund-Reg(G),Debt MF,DT-B&PSU,Debt : Banking & PSU,4431.0,0.58,6.47,6.85,5.38,0.11,0.93,,
+HSBC Corporate Bond Fund-Reg(G),Debt MF,DT-CORP,Debt : Corporate Bond,6203.0,0.6,6.86,7.35,6.18,0.19,2.33,,
+HSBC Credit Risk Fund-Reg(G),Debt MF,DT-CR,Debt : Credit Risk,481.0,1.64,18.26,10.99,8.58,0.19,1.11,,
+HSBC Dynamic Bond Fund-Reg(G),Debt MF,DT-DYN,Debt : Dynamic Bond,132.0,0.61,3.77,6.59,5.38,0.04,0.8,,
+HSBC Liquid Fund(G),Debt MF,DT-LIQ,Debt : Liquid,17735.0,0.2,6.22,6.88,5.9,0.26,0.18,,
+HSBC Low Duration Fund-Reg(G),Debt MF,DT-LOWD,Debt : Low Duration,1009.0,0.89,7.93,7.6,6.18,0.31,0.98,,
+HSBC Medium Duration Fund-Reg(G),Debt MF,DT-MD,Debt : Medium Duration,746.0,1.08,6.59,7.42,6.16,0.23,0.33,,
+HSBC Money Market Fund-Reg(G),Debt MF,DT-MM,Debt : Money Market,5379.0,0.34,6.8,7.14,5.82,0.4,1.11,,
+HSBC Overnight Fund-Reg(G),Debt MF,DT-ON,Debt : Overnight,4360.0,0.14,5.44,6.22,5.41,-0.71,1.34,,
+HSBC Short Duration Fund-Reg(G),Debt MF,DT-SD,Debt : Short Duration,4308.0,0.69,6.64,7.06,5.71,0.17,6.85,,
+HSBC Ultra Short Duration Fund-Reg(G),Debt MF,DT-USD,Debt : Ultra Short Duration,2874.0,0.33,6.64,7.03,5.97,0.38,1.35,,
+ICICI Pru Banking & PSU Debt Fund(G),Debt MF,DT-B&PSU,Debt : Banking & PSU,9490.0,0.73,6.54,7.32,6.41,0.25,2.45,,
+ICICI Pru Bond Fund(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,2912.0,1.03,4.9,7.29,6.1,0.14,3.17,,
+ICICI Pru Constant Maturity Gilt Fund(G),Debt MF,DT-GL10Y,Debt : Gilt (10 Yr Constant Duration),2655.0,0.4,6.0,7.88,6.27,0.2,0.2,,
+ICICI Pru Corp Bond Fund(G),Debt MF,DT-CORP,Debt : Corporate Bond,33237.0,0.56,6.97,7.62,6.58,0.35,1.0,,
+ICICI Pru Credit Risk Fund(G),Debt MF,DT-CR,Debt : Credit Risk,5946.0,1.37,8.61,8.25,7.35,0.52,1.31,,
+ICICI Pru Floating Interest Fund(G),Debt MF,DT-FL,Debt : Floater,7439.0,0.86,7.3,7.73,6.51,0.42,0.36,,
+ICICI Pru FMP-85-10Y-I(G),Debt MF,DT-FMP,Debt : FTP/FMP,484.0,,7.46,8.36,7.04,0.28,0.18,,
+ICICI Pru FMP-88-1226D-F(G),Debt MF,DT-FMP,Debt : FTP/FMP,140.0,,6.43,7.09,,0.26,1.07,,
+ICICI Pru FMP-88-1303D-S(G),Debt MF,DT-FMP,Debt : FTP/FMP,68.0,,6.85,7.43,,0.29,0.31,,
+ICICI Pru Gilt Fund(G),Debt MF,DT-GILT,Debt : Gilt,10024.0,1.1,4.8,7.29,6.35,0.14,1.4,,
+ICICI Pru Liquid Fund(G),Debt MF,DT-LIQ,Debt : Liquid,53738.0,0.31,6.2,6.87,5.87,0.25,0.93,,
+ICICI Pru Long Term Bond Fund(G),Debt MF,DT-LD,Debt : Long Duration,977.0,0.95,2.06,6.63,5.14,0.05,1.96,,
+ICICI Pru Money Market Fund(G),Debt MF,DT-MM,Debt : Money Market,35305.0,0.37,6.97,7.39,6.26,0.54,0.19,,
+ICICI Pru Nifty 10 yr Benchmark G-Sec ETF,Debt MF,DT-GL10Y,Debt : Gilt (10 Yr Constant Duration),737.0,0.14,4.57,7.38,,0.15,2.53,,
+ICICI Pru Nifty 5 yr Benchmark G-SEC ETF,Debt MF,DT-M&LD,Debt : Medium to Long Duration,20.0,0.2,7.05,7.75,,0.26,0.87,,
+ICICI Pru Nifty G-Sec Dec 2030 Index Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,844.0,0.33,6.69,7.95,,0.24,0.91,,
+ICICI Pru Nifty SDL Dec 2028 Index Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,846.0,0.37,7.54,8.04,,0.25,1.14,,
+ICICI Pru Nifty SDL Sep 2026 Index Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,256.0,0.4,6.72,7.31,,0.3,0.68,,
+ICICI Pru Nifty SDL Sep 2027 Index Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,1497.0,0.29,7.33,7.8,,0.31,1.91,,
+ICICI Pru Overnight Fund(G),Debt MF,DT-ON,Debt : Overnight,11395.0,0.15,5.44,6.24,5.41,-0.67,0.19,,
+ICICI Pru Savings Fund(G),Debt MF,DT-LOWD,Debt : Low Duration,31284.0,0.58,7.23,7.64,6.49,0.59,3.12,,
+ICICI Pru Short Term Fund(G),Debt MF,DT-SD,Debt : Short Duration,22852.0,1.06,7.02,7.51,6.52,0.33,1.03,,
+ICICI Pru Ultra Short Term Fund Fund(G),Debt MF,DT-USD,Debt : Ultra Short Duration,16816.0,0.77,6.75,7.07,6.06,0.4,0.37,,
+Invesco India Banking and PSU Fund-Reg(G),Debt MF,DT-B&PSU,Debt : Banking & PSU,98.0,0.63,6.18,7.05,5.69,0.15,2.47,,
+Invesco India Corporate Bond Fund-Reg(G),Debt MF,DT-CORP,Debt : Corporate Bond,6099.0,0.68,6.23,7.16,5.87,0.17,1.78,,
+Invesco India Credit Risk Fund-Reg(G),Debt MF,DT-CR,Debt : Credit Risk,162.0,1.45,6.33,9.19,6.87,0.27,2.02,,
+Invesco India Gilt Fund-Reg(G),Debt MF,DT-GILT,Debt : Gilt,277.0,1.25,1.13,6.13,4.88,0.02,1.03,,
+Invesco India Liquid Fund(G),Debt MF,DT-LIQ,Debt : Liquid,15423.0,0.22,6.24,6.89,5.9,0.28,1.76,,
+Invesco India Low Duration Fund(G),Debt MF,DT-LOWD,Debt : Low Duration,2065.0,0.65,6.63,7.06,5.9,0.31,0.77,,
+Invesco India Medium Duration Fund-Reg(G),Debt MF,DT-MD,Debt : Medium Duration,174.0,1.21,5.44,6.66,,0.07,1.13,,
+Invesco India Money Market Fund(G),Debt MF,DT-MM,Debt : Money Market,6596.0,0.43,6.71,7.09,5.88,0.36,0.18,,
+Invesco India Nifty G-sec Jul 2027 Index Fund-Reg(G),Debt MF,DT-MD,Debt : Medium Duration,82.0,0.29,7.12,7.48,,0.27,1.14,,
+Invesco India Overnight Fund-Reg(G),Debt MF,DT-ON,Debt : Overnight,332.0,0.12,5.44,6.25,5.44,-0.65,0.83,,
+Invesco India Short Duration Fund-Reg(G),Debt MF,DT-SD,Debt : Short Duration,1064.0,1.05,6.3,6.95,5.59,0.14,0.31,,
+Invesco India Ultra Short Duration Fund-Reg(G),Debt MF,DT-USD,Debt : Ultra Short Duration,1292.0,0.79,6.36,6.88,5.7,0.25,1.34,,
+ITI Banking & PSU Debt Fund-Reg(G),Debt MF,DT-B&PSU,Debt : Banking & PSU,38.0,0.7,6.02,6.74,5.94,0.09,1.3,,
+ITI Dynamic Bond Fund-Reg(G),Debt MF,DT-DYN,Debt : Dynamic Bond,31.0,1.19,2.91,5.99,,-0.05,2.76,,
+ITI Liquid Fund-Reg(G),Debt MF,DT-LIQ,Debt : Liquid,56.0,0.25,6.1,6.58,5.62,-0.13,3.48,,
+ITI Overnight Fund-Reg(G),Debt MF,DT-ON,Debt : Overnight,15.0,0.18,5.2,5.98,5.23,-1.11,0.19,,
+ITI Ultra Short Duration Fund-Reg(G),Debt MF,DT-USD,Debt : Ultra Short Duration,195.0,0.92,5.89,6.28,,-0.24,0.42,,
+JM Dynamic Bond Fund-Reg(G),Debt MF,DT-DYN,Debt : Dynamic Bond,58.0,0.98,5.03,6.71,5.73,0.06,1.44,,
+JM Liquid Fund(G),Debt MF,DT-LIQ,Debt : Liquid,2577.0,0.26,6.14,6.8,5.86,0.18,0.36,,
+JM Overnight Fund-Reg(G),Debt MF,DT-ON,Debt : Overnight,89.0,0.15,5.3,6.15,5.38,-0.78,0.18,,
+JM Short Duration Fund-Reg(G),Debt MF,DT-SD,Debt : Short Duration,84.0,1.1,6.08,6.55,,0.04,1.07,,
+Kotak Banking and PSU Debt Fund(G),Debt MF,DT-B&PSU,Debt : Banking & PSU,5409.0,0.75,6.78,7.29,6.32,0.19,0.29,,
+Kotak Bond Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,1908.0,1.65,3.51,6.31,5.33,0.02,0.86,,
+Kotak Bond Short Term Fund(G),Debt MF,DT-SD,Debt : Short Duration,17568.0,1.12,6.29,7.01,5.83,0.15,2.11,,
+Kotak Corporate Bond Fund(G),Debt MF,DT-CORP,Debt : Corporate Bond,17274.0,0.7,6.67,7.46,6.3,0.24,0.15,,
+Kotak Credit Risk Fund(G),Debt MF,DT-CR,Debt : Credit Risk,711.0,1.71,8.1,7.63,5.88,0.23,0.18,,
+Kotak FMP-292-1735D(IDCW),Debt MF,DT-FMP,Debt : FTP/FMP,481.0,,6.45,7.19,,0.28,2.13,,
+Kotak FMP-300-1223D(G),Debt MF,DT-FMP,Debt : FTP/FMP,261.0,,6.53,7.18,,0.3,0.18,,
+Kotak FMP-304-3119D(G),Debt MF,DT-FMP,Debt : FTP/FMP,120.0,,6.35,8.56,,0.26,0.41,,
+Kotak FMP-305-1200D(G),Debt MF,DT-FMP,Debt : FTP/FMP,36.0,,6.32,7.02,,0.25,2.06,,
+Kotak Gilt Fund-PF&Trust(G),Debt MF,DT-GILT,Debt : Gilt,2888.0,1.48,-0.31,5.2,4.74,-0.07,1.24,,
+Kotak Gilt Fund-Reg(G),Debt MF,DT-GILT,Debt : Gilt,2888.0,1.48,-0.31,5.2,4.74,-0.07,2.29,,
+Kotak Liquid Fund-Reg(G),Debt MF,DT-LIQ,Debt : Liquid,42746.0,0.31,6.21,6.84,5.85,0.21,1.08,,
+Kotak Low Duration Fund(G),Debt MF,DT-LOWD,Debt : Low Duration,16393.0,1.18,6.61,6.9,5.82,0.18,1.32,,
+Kotak Nifty SDL Apr 2027 Top 12 Equal Weight Index Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,6958.0,0.35,7.4,7.72,,0.33,0.7,,
+Kotak Nifty SDL Apr 2032 Top 12 Equal Weight Index Fund-Reg(G),Debt MF,DT-LD,Debt : Long Duration,3534.0,0.36,6.21,7.97,,0.16,3.75,,
+Kotak Nifty SDL Jul 2026 Index Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,98.0,0.41,6.61,7.22,,0.28,3.75,,
+Kotak Nifty SDL Jul 2033 Index Fund-Reg(G),Debt MF,DT-LD,Debt : Long Duration,198.0,0.43,4.7,7.6,,0.13,0.19,,
+Kotak Overnight Fund-Reg(G),Debt MF,DT-ON,Debt : Overnight,7093.0,0.16,5.43,6.22,5.41,-0.69,0.5,,
+Kotak Savings Fund(G),Debt MF,DT-USD,Debt : Ultra Short Duration,16105.0,0.82,6.59,6.89,5.82,0.25,1.36,,
+LIC MF Banking & PSU Fund-Reg(G),Debt MF,DT-B&PSU,Debt : Banking & PSU,1880.0,0.68,6.39,7.0,5.63,0.12,0.37,,
+LIC MF Gilt Fund-PF(G),Debt MF,DT-GILT,Debt : Gilt,46.0,1.16,-0.12,5.15,4.22,-0.08,0.18,,
+LIC MF Low Duration Fund(G),Debt MF,DT-LOWD,Debt : Low Duration,2018.0,1.23,6.3,6.69,5.59,0.1,0.95,,
+LIC MF Medium to Long Duration Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,198.0,0.5,4.88,6.95,5.47,0.08,2.6,,
+LIC MF Money Market Fund-Reg(G),Debt MF,DT-MM,Debt : Money Market,4900.0,0.88,6.61,6.33,,-0.18,0.74,,
+LIC MF Overnight Fund-Reg(G),Debt MF,DT-ON,Debt : Overnight,550.0,0.15,5.42,6.19,5.39,-0.79,2.64,,
+LIC MF Short Duration Fund-Reg(G),Debt MF,DT-SD,Debt : Short Duration,194.0,1.16,6.02,6.67,5.18,0.07,1.32,,
+LIC MF Ultra Short Duration Fund-Reg(G),Debt MF,DT-USD,Debt : Ultra Short Duration,230.0,1.22,6.01,6.33,5.4,-0.19,0.18,,
+Mahindra Manulife Dynamic Bond Fund-Reg(G),Debt MF,DT-CR,Debt : Credit Risk,78.0,1.6,4.26,6.41,4.68,0.02,0.31,,
+Mahindra Manulife Liquid Fund-Reg(G),Debt MF,DT-LIQ,Debt : Liquid,1145.0,0.26,6.23,6.9,5.93,0.31,1.32,,
+Mahindra Manulife Low Duration Fund-Reg(G),Debt MF,DT-LOWD,Debt : Low Duration,573.0,1.1,6.36,6.78,5.61,0.15,3.52,,
+Mahindra Manulife Overnight Fund-Reg(G),Debt MF,DT-ON,Debt : Overnight,214.0,0.19,5.42,6.2,5.42,-0.74,0.19,,
+Mahindra Manulife Short Duration Fund-Reg(G),Debt MF,DT-SD,Debt : Short Duration,89.0,1.3,6.22,6.89,5.64,0.13,0.44,,
+Mahindra Manulife Ultra Short Duration Fund-Reg(G),Debt MF,DT-USD,Debt : Ultra Short Duration,217.0,0.7,6.37,6.89,5.82,0.29,2.29,,
+Mirae Asset Banking and PSU Fund-Reg(G),Debt MF,DT-B&PSU,Debt : Banking & PSU,44.0,0.81,5.88,6.78,5.6,0.08,0.29,,
+Mirae Asset Corp Bond Fund-Reg(G),Debt MF,DT-CORP,Debt : Corporate Bond,48.0,0.68,6.3,6.99,5.66,0.12,2.42,,
+Mirae Asset CRISIL IBX Gilt Index - April 2033 Index Fund-Reg(G),Debt MF,DT-GILT,Debt : Gilt,228.0,0.4,6.14,7.91,,0.21,0.18,,
+Mirae Asset Dynamic Bond Fund-Reg(G),Debt MF,DT-DYN,Debt : Dynamic Bond,117.0,1.02,6.48,6.68,5.04,0.06,0.3,,
+Mirae Asset Liquid Fund-Reg(G),Debt MF,DT-LIQ,Debt : Liquid,12395.0,0.19,6.21,6.88,5.9,0.27,2.2,,
+Mirae Asset Low Duration Fund-Reg Savings Plan(G),Debt MF,DT-LOWD,Debt : Low Duration,2720.0,0.87,6.47,6.89,5.71,0.21,0.41,,
+Mirae Asset Money Market Fund-Reg(G),Debt MF,DT-MM,Debt : Money Market,3769.0,0.41,6.67,7.08,,0.36,0.18,,
+Mirae Asset Nifty AAA PSU Bond Plus SDL Apr 2026 50:50 Index Fund-Reg(G),Debt MF,DT-B&PSU,Debt : Banking & PSU,76.0,0.36,6.66,7.12,,0.29,0.96,,
+Mirae Asset Nifty SDL Jun 2027 Index Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,514.0,0.35,7.27,7.74,,0.32,0.31,,
+Mirae Asset Overnight Fund-Reg(G),Debt MF,DT-ON,Debt : Overnight,1530.0,0.17,5.45,6.24,5.44,-0.67,1.27,,
+Mirae Asset Ultra Short Duration Fund-Reg(G),Debt MF,DT-USD,Debt : Ultra Short Duration,1809.0,0.46,6.69,7.19,6.09,0.53,2.45,,
+Motilal Oswal Liquid Fund-Reg(G),Debt MF,DT-LIQ,Debt : Liquid,1114.0,0.35,5.81,6.43,5.47,-0.27,0.87,,
+Motilal Oswal Ultra Short Term Fund-Reg(G),Debt MF,DT-USD,Debt : Ultra Short Duration,441.0,1.0,5.19,5.71,4.73,-1.02,0.2,,
+Nippon India Banking and PSU Fund(G),Debt MF,DT-B&PSU,Debt : Banking & PSU,5294.0,0.78,6.07,7.02,5.97,0.12,0.43,,
+Nippon India Corp Bond Fund(G),Debt MF,DT-CORP,Debt : Corporate Bond,8950.0,0.78,6.57,7.53,6.56,0.23,0.37,,
+Nippon India Floater Fund(G),Debt MF,DT-FL,Debt : Floater,8381.0,0.64,7.07,7.63,6.38,0.32,0.18,,
+Nippon India FMP-XLI-8-3654D(G),Debt MF,DT-FMP,Debt : FTP/FMP,69.0,,7.5,8.19,6.91,0.25,1.06,,
+Nippon India FMP-XLIII-1-1755D(IDCW),Debt MF,DT-FMP,Debt : FTP/FMP,239.0,,6.65,7.35,,0.32,0.31,,
+Nippon India FMP-XLIII-5-2315D(G),Debt MF,DT-FMP,Debt : FTP/FMP,186.0,,7.39,8.05,,0.3,3.53,,
+Nippon India FMP-XLIV-1-1743D(G),Debt MF,DT-FMP,Debt : FTP/FMP,79.0,,7.28,7.78,,0.35,0.18,,
+Nippon India FMP-XLIV-4-1223D(G),Debt MF,DT-FMP,Debt : FTP/FMP,56.0,,6.47,7.13,,0.28,1.78,,
+Nippon India Gilt Fund(G),Debt MF,DT-GILT,Debt : Gilt,1857.0,1.27,1.37,5.87,4.98,-0.02,1.36,,
+Nippon India Inv-Annual-I(G),Debt MF,DT-FMP,Debt : FTP/FMP,3.0,,6.79,7.03,6.02,0.4,1.31,,
+Nippon India Inv-Qrtly-II(G),Debt MF,DT-FMP,Debt : FTP/FMP,14.0,,5.8,6.72,5.85,0.23,0.78,,
+Nippon India Nifty AAA CPSE Bond Plus SDL - Apr 2027 Maturity 60:40 Index Fund(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,3003.0,0.32,7.15,7.43,,0.3,2.03,,
+Nippon India Nifty AAA PSU Bond Plus SDL - Sep 2026 Maturity 50:50 Index Fund-Reg(G),Debt MF,DT-B&PSU,Debt : Banking & PSU,383.0,0.38,6.88,7.23,,0.29,0.19,,
+Nippon India Nifty G-Sec Jun 2036 Maturity Index Fund-Reg(G),Debt MF,DT-GILT,Debt : Gilt,882.0,0.42,5.62,8.16,,0.2,1.79,,
+Nippon India Nifty G-Sec Oct 2028 Maturity Index Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,128.0,0.39,7.1,7.6,,0.28,2.42,,
+Nippon India Nifty G-Sec Sep 2027 Maturity Index Fund-Reg(G),Debt MF,DT-GILT,Debt : Gilt,409.0,0.41,7.05,7.4,,0.29,0.62,,
+Nippon India Nifty SDL Plus G-Sec - Jun 2029 Maturity 70:30 Index Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,321.0,0.39,7.33,7.95,,0.26,0.92,,
+Nippon India Nifty SDL Plus G-Sec-Jun 2028 Maturity 70:30 Index Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,330.0,0.4,7.26,7.72,,0.28,3.23,,
+Nippon India Nivesh Lakshya Long Duration Fund(G),Debt MF,DT-LD,Debt : Long Duration,8228.0,0.65,1.26,6.44,5.49,0.04,0.19,,
+Nippon India Overnight Fund-Reg(G),Debt MF,DT-ON,Debt : Overnight,6730.0,0.16,5.45,6.24,5.43,-0.67,0.43,,
+Nippon India Short Duration Fund(G),Debt MF,DT-SD,Debt : Short Duration,8367.0,0.93,6.89,7.42,6.21,0.25,1.9,,
+PGIM India Corp Bond Fund(G),Debt MF,DT-CORP,Debt : Corporate Bond,84.0,1.0,5.98,6.81,5.78,0.08,2.43,,
+PGIM India CRISIL IBX Gilt Index - Apr 2028 Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,24.0,0.67,7.03,7.41,,0.27,0.38,,
+PGIM India Gilt Fund(G),Debt MF,DT-GILT,Debt : Gilt,99.0,1.4,1.57,5.86,4.95,-0.02,0.79,,
+PGIM India Liquid Fund(G),Debt MF,DT-LIQ,Debt : Liquid,677.0,0.22,6.25,6.87,5.89,0.25,0.69,,
+PGIM India Money Market Fund-Reg(G),Debt MF,DT-MM,Debt : Money Market,226.0,0.46,6.63,6.99,5.81,0.29,2.99,,
+PGIM India Ultra Short Duration Fund(G),Debt MF,DT-USD,Debt : Ultra Short Duration,165.0,0.94,5.89,6.45,5.51,-0.07,1.12,,
+Quant Gilt Fund-Reg(G),Debt MF,DT-GILT,Debt : Gilt,99.0,1.44,2.32,5.49,,-0.11,1.37,,
+Quant Liquid Plan(G),Debt MF,DT-LIQ,Debt : Liquid,1262.0,0.54,5.96,6.61,5.8,-0.03,1.67,,
+Quant Overnight Fund-Reg(G),Debt MF,DT-ON,Debt : Overnight,54.0,0.24,5.28,6.37,,-0.27,3.84,,
+Quantum Dynamic Bond Fund-Reg(G),Debt MF,DT-DYN,Debt : Dynamic Bond,102.0,1.0,3.9,7.0,6.1,0.1,0.18,,
+Quantum Liquid Fund-Reg(G),Debt MF,DT-LIQ,Debt : Liquid,567.0,0.26,5.8,6.53,5.61,-0.17,1.09,,
+Samco Overnight Fund-Reg(G),Debt MF,DT-ON,Debt : Overnight,31.0,0.33,5.03,5.89,,-1.14,0.28,,
+SBI Constant Maturity 10 Year Gilt Fund-Reg(G),Debt MF,DT-GL10Y,Debt : Gilt (10 Yr Constant Duration),1802.0,0.63,5.13,7.45,5.98,0.15,0.18,,
+SBI Corp Bond Fund-Reg(G),Debt MF,DT-CORP,Debt : Corporate Bond,22518.0,0.77,6.49,7.18,5.94,0.17,0.15,,
+SBI CPSE Bond Plus SDL Sep 2026 50:50 Index Fund-Reg(G),Debt MF,DT-MD,Debt : Medium Duration,7676.0,0.34,6.94,7.28,,0.3,1.27,,
+SBI Credit Risk Fund-Reg(G),Debt MF,DT-CR,Debt : Credit Risk,2166.0,1.56,7.39,8.07,6.92,0.33,1.23,,
+SBI CRISIL IBX Gilt Index - Apr 2029 Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,1988.0,0.43,6.94,7.78,,0.26,2.41,,
+SBI CRISIL IBX Gilt Index - June 2036 Fund-Reg(G),Debt MF,DT-LD,Debt : Long Duration,2738.0,0.5,5.45,8.03,,0.18,2.96,,
+SBI CRISIL IBX SDL Index - Sep 2027 Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,1001.0,0.38,7.3,7.75,,0.3,0.19,,
+SBI Dynamic Bond Fund-Reg(G),Debt MF,DT-DYN,Debt : Dynamic Bond,4100.0,1.35,4.98,7.04,5.87,0.09,0.38,,
+SBI FMP-1-3668D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,51.0,,7.39,8.24,7.03,0.28,0.18,,
+SBI FMP-34-3682D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,29.0,,6.74,8.01,6.84,0.21,0.3,,
+SBI FMP-42-1857D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,502.0,,6.34,7.12,,0.24,2.08,,
+SBI FMP-44-1855D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,405.0,,6.65,7.27,,0.27,0.18,,
+SBI FMP-45-1840D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,238.0,,6.55,7.28,,0.29,0.26,,
+SBI FMP-46-1850D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,139.0,,6.63,7.23,,0.24,2.69,,
+SBI FMP-50-1843D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,128.0,,6.86,7.42,,0.28,0.18,,
+SBI FMP-51-1846D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,315.0,,6.95,7.5,,0.31,0.19,,
+SBI FMP-52-1848D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,145.0,,6.94,7.51,,0.31,1.24,,
+SBI FMP-53-1839D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,326.0,,7.06,7.57,,0.32,2.57,,
+SBI FMP-54-1842D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,40.0,,7.11,7.63,,0.31,1.25,,
+SBI FMP-55-1849D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,268.0,,7.11,7.58,,0.3,0.72,,
+SBI FMP-57-1835D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,272.0,,7.14,7.61,,0.31,1.24,,
+SBI FMP-58-1842D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,266.0,,7.18,7.66,,0.31,1.74,,
+SBI FMP-59-1618D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,29.0,,6.49,7.12,,0.2,2.99,,
+SBI FMP-6-3668D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,37.0,,7.1,7.98,6.78,0.24,1.14,,
+SBI FMP-60-1878D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,262.0,,7.33,7.76,,0.32,2.49,,
+SBI FMP-61-1927D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,355.0,,7.23,7.71,,0.3,0.66,,
+SBI FMP-66-1361D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,715.0,,6.3,7.14,,0.24,3.04,,
+SBI FMP-67-1467D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,616.0,,6.72,7.33,,0.27,0.19,,
+SBI FMP-68-1302D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,203.0,,6.34,7.03,,0.18,4.28,,
+SBI FMP-72-1239D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,354.0,,6.52,7.21,,0.24,0.44,,
+SBI FMP-73-1226D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,212.0,,6.51,7.19,,0.24,1.2,,
+SBI FMP-74-1243D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,167.0,,6.52,7.24,,0.28,1.96,,
+SBI FMP-76-1221D-Reg(G),Debt MF,DT-FMP,Debt : FTP/FMP,174.0,,6.44,7.08,,0.21,2.52,,
+SBI Gilt Fund-Reg(G),Debt MF,DT-GILT,Debt : Gilt,10211.0,0.96,3.23,6.8,5.94,0.05,0.35,,
+SBI Liquid Fund-Reg(G),Debt MF,DT-LIQ,Debt : Liquid,66119.0,0.28,6.16,6.81,5.85,0.19,1.01,,
+SBI Long Duration Fund-Reg(G),Debt MF,DT-LD,Debt : Long Duration,1792.0,0.67,1.1,6.57,,0.05,0.28,,
+SBI Overnight Fund-Reg(G),Debt MF,DT-ON,Debt : Overnight,28880.0,0.14,5.41,6.2,5.4,-0.76,1.15,,
+SBI Savings Fund-Reg(G),Debt MF,DT-MM,Debt : Money Market,35418.0,0.68,6.6,6.95,5.83,0.27,1.2,,
+SBI Short Term Debt Fund-Reg(G),Debt MF,DT-SD,Debt : Short Duration,17213.0,0.85,6.68,7.19,5.96,0.2,0.2,,
+SBI Ultra Short Duration Fund-Reg(G),Debt MF,DT-USD,Debt : Ultra Short Duration,13685.0,0.56,6.62,7.03,5.93,0.39,0.46,,
+Shriram Overnight Fund-Reg(G),Debt MF,DT-ON,Debt : Overnight,124.0,0.15,5.37,6.16,,-0.83,0.18,,
+Sundaram Banking & PSU Fund(G),Debt MF,DT-B&PSU,Debt : Banking & PSU,281.0,0.44,6.4,7.22,5.63,0.19,1.04,,
+Sundaram Corp Bond Fund(G),Debt MF,DT-CORP,Debt : Corporate Bond,627.0,0.64,6.23,6.91,5.91,0.11,0.31,,
+Sundaram Liquid Fund(G),Debt MF,DT-LIQ,Debt : Liquid,6221.0,0.35,6.11,6.82,5.84,0.19,1.3,,
+Sundaram Medium Duration Fund(G),Debt MF,DT-MD,Debt : Medium Duration,35.0,2.06,4.57,5.51,4.22,-0.16,1.02,,
+Sundaram Money Market Fund-Reg(G),Debt MF,DT-MM,Debt : Money Market,2334.0,0.32,6.88,7.19,6.04,0.44,3.25,,
+Sundaram Overnight Fund-Reg(G),Debt MF,DT-ON,Debt : Overnight,1117.0,0.17,5.39,6.2,5.38,-0.73,0.19,,
+Sundaram Ultra Short Duration Fund(G),Debt MF,DT-USD,Debt : Ultra Short Duration,1907.0,1.43,5.52,6.03,5.03,-0.4,0.37,,
+Tata Corp Bond Fund-Reg(G),Debt MF,DT-CORP,Debt : Corporate Bond,4021.0,0.86,5.9,7.09,,0.15,0.89,,
+Tata CRISIL IBX Gilt Index - April 2026 Index Fund-Reg(G),Debt MF,DT-MD,Debt : Medium Duration,793.0,0.35,6.49,7.0,,0.13,1.8,,
+Tata Floating Rate Fund-Reg(G),Debt MF,DT-FL,Debt : Floater,140.0,0.72,7.09,7.33,,0.21,1.14,,
+Tata Gilt Securities Fund-Reg(G),Debt MF,DT-GILT,Debt : Gilt,1214.0,1.37,1.7,5.93,5.0,-0.01,0.18,,
+Tata Liquid Fund-Reg(G),Debt MF,DT-LIQ,Debt : Liquid,33551.0,0.31,6.25,6.87,5.87,0.26,1.1,,
+Tata Money Market Fund-Reg(G),Debt MF,DT-MM,Debt : Money Market,36819.0,0.41,6.91,7.36,6.3,0.53,0.45,,
+Tata Nifty G-Sec Dec 2029 Index Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,136.0,0.45,6.91,7.77,,0.26,0.28,,
+Tata Overnight Fund-Reg(G),Debt MF,DT-ON,Debt : Overnight,4055.0,0.18,5.41,6.21,5.4,-0.73,1.2,,
+Tata ST Bond Fund-Reg(G),Debt MF,DT-SD,Debt : Short Duration,3745.0,1.17,5.57,6.61,5.49,0.06,0.19,,
+Tata Treasury Advantage Fund-Reg(G),Debt MF,DT-LOWD,Debt : Low Duration,3491.0,0.57,6.67,7.03,5.94,0.29,0.32,,
+Tata Ultra Short Term Fund-Reg(G),Debt MF,DT-USD,Debt : Ultra Short Duration,3793.0,1.15,6.17,6.6,5.54,0.05,0.19,,
+TRUSTMF Corporate Bond Fund-Reg(G),Debt MF,DT-CORP,Debt : Corporate Bond,125.0,0.65,5.82,6.7,,0.08,1.34,,
+TRUSTMF Liquid Fund-Reg(G),Debt MF,DT-LIQ,Debt : Liquid,943.0,0.25,6.1,6.76,,0.12,3.73,,
+TRUSTMF Money Market Fund-Reg(G),Debt MF,DT-MM,Debt : Money Market,132.0,0.46,6.5,6.98,,0.33,0.18,,
+TRUSTMF Short Duration Fund-Reg(G),Debt MF,DT-SD,Debt : Short Duration,92.0,0.73,6.39,6.84,,0.12,0.3,,
+Union Dynamic Bond Fund(G),Debt MF,DT-DYN,Debt : Dynamic Bond,100.0,1.57,1.05,5.45,4.41,-0.06,1.0,,
+Union Gilt Fund-Reg(G),Debt MF,DT-GILT,Debt : Gilt,102.0,1.07,-0.29,5.14,,-0.06,0.8,,
+Union Overnight Fund-Reg(G),Debt MF,DT-ON,Debt : Overnight,296.0,0.17,5.39,6.2,5.4,-0.74,2.63,,
+UTI Annual Interval Fund-I-(G),Debt MF,DT-FMP,Debt : FTP/FMP,22.0,,5.51,6.38,6.16,-0.14,2.1,,
+UTI Corporate Bond Fund-Reg(G),Debt MF,DT-CORP,Debt : Corporate Bond,5532.0,0.58,6.56,7.28,6.07,0.2,0.64,,
+UTI Credit Risk Fund-Reg(G),Debt MF,DT-CR,Debt : Credit Risk,257.0,1.64,6.71,7.21,9.42,0.25,2.96,,
+UTI CRISIL SDL Maturity April 2033 Index Fund-Reg(G),Debt MF,DT-LD,Debt : Long Duration,325.0,0.4,4.77,7.58,,0.14,2.52,,
+UTI CRISIL SDL Maturity June 2027 Index Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,66.0,0.4,7.21,7.62,,0.3,0.19,,
+UTI Floater Fund-Reg(G),Debt MF,DT-FL,Debt : Floater,1554.0,0.87,6.59,6.86,5.72,0.13,0.45,,
+UTI FTIF-XXXV-I(1260D)(G),Debt MF,DT-FMP,Debt : FTP/FMP,342.0,,6.24,6.89,,0.19,1.3,,
+UTI Gilt Fund with 10 year Constant Duration-Reg(G),Debt MF,DT-GL10Y,Debt : Gilt (10 Yr Constant Duration),132.0,0.7,4.91,7.27,,0.14,2.28,,
+UTI Liquid Fund-Reg(G),Debt MF,DT-LIQ,Debt : Liquid,27263.0,0.24,6.25,6.89,5.91,0.28,0.37,,
+UTI Medium Duration Fund-Reg(G),Debt MF,DT-MD,Debt : Medium Duration,39.0,1.45,5.41,6.67,6.1,0.07,0.65,,
+UTI Money Market Fund-Reg(G),Debt MF,DT-MM,Debt : Money Market,20320.0,0.22,6.98,7.41,6.32,0.57,0.18,,
+UTI Nifty SDL Plus AAA PSU Bond Apr 2026 75:25 Index Fund-Reg(G),Debt MF,DT-MD,Debt : Medium Duration,172.0,0.4,6.47,7.11,,0.27,0.96,,
+UTI Nifty SDL Plus AAA PSU Bond Apr 2028 75:25 Index Fund-Reg(G),Debt MF,DT-M&LD,Debt : Medium to Long Duration,35.0,0.39,7.24,7.67,,0.26,0.29,,
+UTI Overnight Fund-Reg(G),Debt MF,DT-ON,Debt : Overnight,5552.0,0.12,5.45,6.26,5.45,-0.65,0.2,,
+UTI Short Duration Fund-Reg(G),Debt MF,DT-SD,Debt : Short Duration,3090.0,0.83,6.43,7.18,7.06,0.2,0.31,,
+Gold BeES ETF (Nippon),Gold,GOLD-ETF,Gold ETF,12000.0,0.5,53.38,48.04,45.37,1.56,49.54,,
+Silver BeES ETF,Gold,SILVER-ETF,Silver ETF,800.0,0.4,76.81,69.13,,1.64,83.55,,
+Nippon India Gold ETF,Gold,GOLD-ETF,Gold ETF,9500.0,0.49,53.76,47.31,44.08,1.62,45.65,,
+Gold (Global Futures),Gold,GOLD-GLOBAL,Gold Commodity,,,51.44,47.32,45.27,1.36,39.0,,
