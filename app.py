@@ -26,43 +26,43 @@ st.set_page_config(
 # ─────────────────────────────────────────────
 st.markdown("""
 <style>
-@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600&family=Syne:wght@600;700&display=swap');
 
 html, body, [class*="css"] {
-    font-family: 'DM Sans', sans-serif;
+    font-family: 'Space Grotesk', sans-serif;
 }
 
 .stApp {
-    background: #0f1117;
-    color: #e8e8e8;
+    background: #1E1E2F;
+    color: #F8FAFC;
 }
 
 h1, h2, h3 {
-    font-family: 'DM Serif Display', serif !important;
-    color: #f5f5f5 !important;
+    font-family: 'Syne', sans-serif !important;
+    color: #F8FAFC !important;
 }
 
 .profile-card {
-    background: linear-gradient(135deg, #1a1f2e 0%, #232a3b 100%);
-    border: 1px solid #2d3748;
+    background: #252537;
+    border: 1px solid #2e2e45;
     border-radius: 16px;
     padding: 28px 32px;
     margin: 12px 0;
 }
 
 .profile-conservative {
-    border-left: 4px solid #1D9E75;
+    border-left: 4px solid #3DDC97;
 }
 .profile-moderate {
-    border-left: 4px solid #378ADD;
+    border-left: 4px solid #4F8CFF;
 }
 .profile-aggressive {
-    border-left: 4px solid #D85A30;
+    border-left: 4px solid #FF6B6B;
 }
 
 .metric-box {
-    background: #1a1f2e;
-    border: 1px solid #2d3748;
+    background: #252537;
+    border: 1px solid #2e2e45;
     border-radius: 12px;
     padding: 16px 20px;
     text-align: center;
@@ -71,21 +71,21 @@ h1, h2, h3 {
 .metric-value {
     font-size: 2rem;
     font-weight: 600;
-    color: #EF9F27;
-    font-family: 'DM Serif Display', serif;
+    color: #3DDC97;
+    font-family: 'Syne', sans-serif;
 }
 
 .metric-label {
     font-size: 0.78rem;
-    color: #8a9bb5;
+    color: #A0AEC0;
     text-transform: uppercase;
     letter-spacing: 1px;
     margin-top: 4px;
 }
 
 .fund-row {
-    background: #1a1f2e;
-    border: 1px solid #2d3748;
+    background: #252537;
+    border: 1px solid #2e2e45;
     border-radius: 10px;
     padding: 14px 18px;
     margin: 6px 0;
@@ -103,28 +103,28 @@ h1, h2, h3 {
     letter-spacing: 0.5px;
 }
 
-.badge-aggressive { background: #D85A3020; color: #D85A30; border: 1px solid #D85A3040; }
-.badge-moderate   { background: #378ADD20; color: #378ADD; border: 1px solid #378ADD40; }
-.badge-conservative { background: #1D9E7520; color: #1D9E75; border: 1px solid #1D9E7540; }
+.badge-aggressive { background: #FF6B6B20; color: #FF6B6B; border: 1px solid #FF6B6B40; }
+.badge-moderate   { background: #4F8CFF20; color: #4F8CFF; border: 1px solid #4F8CFF40; }
+.badge-conservative { background: #3DDC9720; color: #3DDC97; border: 1px solid #3DDC9740; }
 
 .sidebar-header {
-    font-family: 'DM Serif Display', serif;
+    font-family: 'Syne', sans-serif;
     font-size: 1.4rem;
-    color: #EF9F27;
+    color: #3DDC97;
     margin-bottom: 4px;
 }
 
-.stSlider > div > div > div { background: #378ADD !important; }
+.stSlider > div > div > div { background: #4F8CFF !important; }
 
 .stButton > button {
-    background: linear-gradient(135deg, #1D9E75, #378ADD);
-    color: white;
+    background: linear-gradient(135deg, #3DDC97, #4F8CFF);
+    color: #1E1E2F;
     border: none;
     border-radius: 10px;
     padding: 12px 28px;
     font-size: 1rem;
     font-weight: 600;
-    font-family: 'DM Sans', sans-serif;
+    font-family: 'Space Grotesk', sans-serif;
     width: 100%;
     cursor: pointer;
     transition: opacity 0.2s;
@@ -132,44 +132,44 @@ h1, h2, h3 {
 .stButton > button:hover { opacity: 0.85; }
 
 .stSelectbox label, .stRadio label, .stSlider label {
-    color: #c8d5e8 !important;
+    color: #A0AEC0 !important;
     font-weight: 500;
 }
 
 /* Tab styling */
 .stTabs [data-baseweb="tab-list"] {
-    background: #1a1f2e;
+    background: #252537;
     border-radius: 12px;
     padding: 4px;
     gap: 4px;
 }
 .stTabs [data-baseweb="tab"] {
     border-radius: 8px;
-    color: #8a9bb5;
+    color: #A0AEC0;
     font-weight: 500;
 }
 .stTabs [aria-selected="true"] {
-    background: #232a3b;
-    color: #e8e8e8 !important;
+    background: #2e2e45;
+    color: #F8FAFC !important;
 }
 
 div[data-testid="stDataFrame"] { border-radius: 10px; }
 
 .section-divider {
     border: none;
-    border-top: 1px solid #2d3748;
+    border-top: 1px solid #2e2e45;
     margin: 24px 0;
 }
 
 .hero-title {
-    font-family: 'DM Serif Display', serif;
+    font-family: 'Syne', sans-serif;
     font-size: 2.6rem;
-    color: #f5f5f5;
+    color: #F8FAFC;
     line-height: 1.2;
 }
 
 .hero-sub {
-    color: #8a9bb5;
+    color: #A0AEC0;
     font-size: 1.05rem;
     margin-top: 8px;
 }
@@ -293,9 +293,9 @@ QUESTIONS = [
     },
 ]
 
-PROFILE_COLORS = {'Conservative': '#1D9E75', 'Moderate': '#378ADD', 'Aggressive': '#D85A30'}
+PROFILE_COLORS = {'Conservative': '#3DDC97', 'Moderate': '#4F8CFF', 'Aggressive': '#FF6B6B'}
 PROFILE_EMOJI = {'Conservative': '🛡️', 'Moderate': '⚖️', 'Aggressive': '🚀'}
-ASSET_COLORS = ['#1D9E75', '#378ADD', '#EF9F27', '#7F77DD', '#D85A30']
+ASSET_COLORS = ['#3DDC97', '#4F8CFF', '#A0AEC0', '#B983FF', '#FF6B6B']
 
 
 # ─────────────────────────────────────────────
@@ -361,14 +361,14 @@ def simulate_growth(df_model, profile, investment=100000):
 # ─────────────────────────────────────────────
 def dark_fig(figsize=(9, 5)):
     fig, ax = plt.subplots(figsize=figsize)
-    fig.patch.set_facecolor('#0f1117')
-    ax.set_facecolor('#1a1f2e')
-    ax.tick_params(colors='#8a9bb5')
-    ax.xaxis.label.set_color('#8a9bb5')
-    ax.yaxis.label.set_color('#8a9bb5')
-    ax.title.set_color('#f5f5f5')
+    fig.patch.set_facecolor('#1E1E2F')
+    ax.set_facecolor('#252537')
+    ax.tick_params(colors='#A0AEC0')
+    ax.xaxis.label.set_color('#A0AEC0')
+    ax.yaxis.label.set_color('#A0AEC0')
+    ax.title.set_color('#F8FAFC')
     for spine in ax.spines.values():
-        spine.set_edgecolor('#2d3748')
+        spine.set_edgecolor('#2e2e45')
     return fig, ax
 
 
@@ -379,24 +379,24 @@ def plot_allocation_pie(profile):
     color = PROFILE_COLORS[profile]
 
     fig, ax = plt.subplots(figsize=(6, 6))
-    fig.patch.set_facecolor('#0f1117')
-    ax.set_facecolor('#0f1117')
+    fig.patch.set_facecolor('#1E1E2F')
+    ax.set_facecolor('#1E1E2F')
 
     wedge_colors = [ASSET_COLORS[i] for i in range(len(labels))]
     wedges, texts, autotexts = ax.pie(
         sizes, labels=labels, colors=wedge_colors,
         autopct='%1.0f%%', startangle=90, pctdistance=0.75,
-        wedgeprops=dict(edgecolor='#0f1117', linewidth=2.5)
+        wedgeprops=dict(edgecolor='#1E1E2F', linewidth=2.5)
     )
     for at in autotexts:
         at.set_fontsize(11)
         at.set_fontweight('bold')
-        at.set_color('white')
+        at.set_color('#1E1E2F')
     for t in texts:
         t.set_fontsize(10)
-        t.set_color('#c8d5e8')
+        t.set_color('#F8FAFC')
     ax.set_title(f'{PROFILE_EMOJI[profile]} {profile} Allocation',
-                 fontsize=13, fontweight='bold', color='#f5f5f5', pad=16)
+                 fontsize=13, fontweight='bold', color='#F8FAFC', pad=16)
     plt.tight_layout()
     return fig
 
@@ -411,30 +411,30 @@ def plot_elbow(X_scaled):
         silhouettes.append(silhouette_score(X_scaled, labels))
 
     fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(10, 4))
-    fig.patch.set_facecolor('#0f1117')
+    fig.patch.set_facecolor('#1E1E2F')
     for ax in [ax1, ax2]:
-        ax.set_facecolor('#1a1f2e')
-        ax.tick_params(colors='#8a9bb5')
+        ax.set_facecolor('#252537')
+        ax.tick_params(colors='#A0AEC0')
         for spine in ax.spines.values():
-            spine.set_edgecolor('#2d3748')
-        ax.xaxis.label.set_color('#8a9bb5')
-        ax.yaxis.label.set_color('#8a9bb5')
+            spine.set_edgecolor('#2e2e45')
+        ax.xaxis.label.set_color('#A0AEC0')
+        ax.yaxis.label.set_color('#A0AEC0')
 
-    ax1.plot(K_range, inertias, 'o-', color='#1D9E75', linewidth=2, markersize=7)
-    ax1.axvline(x=3, color='#D85A30', linestyle='--', linewidth=1.5, label='K=3 (chosen)')
-    ax1.set_title('Elbow Method (WCSS)', fontsize=12, fontweight='bold', color='#f5f5f5')
+    ax1.plot(K_range, inertias, 'o-', color='#3DDC97', linewidth=2, markersize=7)
+    ax1.axvline(x=3, color='#FF6B6B', linestyle='--', linewidth=1.5, label='K=3 (chosen)')
+    ax1.set_title('Elbow Method (WCSS)', fontsize=12, fontweight='bold', color='#F8FAFC')
     ax1.set_xlabel('Number of Clusters (K)')
     ax1.set_ylabel('Inertia')
-    ax1.legend(facecolor='#1a1f2e', edgecolor='#2d3748', labelcolor='#c8d5e8')
+    ax1.legend(facecolor='#252537', edgecolor='#2e2e45', labelcolor='#A0AEC0')
 
-    ax2.plot(K_range, silhouettes, 's-', color='#378ADD', linewidth=2, markersize=7)
-    ax2.axvline(x=3, color='#D85A30', linestyle='--', linewidth=1.5, label='K=3 (chosen)')
-    ax2.set_title('Silhouette Score', fontsize=12, fontweight='bold', color='#f5f5f5')
+    ax2.plot(K_range, silhouettes, 's-', color='#4F8CFF', linewidth=2, markersize=7)
+    ax2.axvline(x=3, color='#FF6B6B', linestyle='--', linewidth=1.5, label='K=3 (chosen)')
+    ax2.set_title('Silhouette Score', fontsize=12, fontweight='bold', color='#F8FAFC')
     ax2.set_xlabel('Number of Clusters (K)')
     ax2.set_ylabel('Silhouette Score')
-    ax2.legend(facecolor='#1a1f2e', edgecolor='#2d3748', labelcolor='#c8d5e8')
+    ax2.legend(facecolor='#252537', edgecolor='#2e2e45', labelcolor='#A0AEC0')
 
-    plt.suptitle('Optimal K Selection for K-Means', fontsize=13, fontweight='bold', color='#f5f5f5', y=1.02)
+    plt.suptitle('Optimal K Selection for K-Means', fontsize=13, fontweight='bold', color='#F8FAFC', y=1.02)
     plt.tight_layout()
     return fig
 
@@ -446,92 +446,92 @@ def plot_pca_scatter(df_model, X_scaled):
     df_pca['risk_label'] = df_model['risk_label'].values
 
     fig, ax = plt.subplots(figsize=(9, 5))
-    fig.patch.set_facecolor('#0f1117')
-    ax.set_facecolor('#1a1f2e')
+    fig.patch.set_facecolor('#1E1E2F')
+    ax.set_facecolor('#252537')
     for spine in ax.spines.values():
-        spine.set_edgecolor('#2d3748')
-    ax.tick_params(colors='#8a9bb5')
-    ax.xaxis.label.set_color('#8a9bb5')
-    ax.yaxis.label.set_color('#8a9bb5')
+        spine.set_edgecolor('#2e2e45')
+    ax.tick_params(colors='#A0AEC0')
+    ax.xaxis.label.set_color('#A0AEC0')
+    ax.yaxis.label.set_color('#A0AEC0')
 
     for label, color in PROFILE_COLORS.items():
         mask = df_pca['risk_label'] == label
         ax.scatter(df_pca.loc[mask, 'PC1'], df_pca.loc[mask, 'PC2'],
                    c=color, label=label, alpha=0.6, s=30, edgecolors='none')
 
-    ax.set_title('K-Means Clusters (PCA 2D Projection)', fontsize=12, fontweight='bold', color='#f5f5f5')
+    ax.set_title('K-Means Clusters (PCA 2D Projection)', fontsize=12, fontweight='bold', color='#F8FAFC')
     ax.set_xlabel(f'PC1 ({pca.explained_variance_ratio_[0]*100:.1f}% variance)')
     ax.set_ylabel(f'PC2 ({pca.explained_variance_ratio_[1]*100:.1f}% variance)')
-    legend = ax.legend(facecolor='#1a1f2e', edgecolor='#2d3748', labelcolor='#c8d5e8', title='Risk Label')
-    legend.get_title().set_color('#8a9bb5')
+    legend = ax.legend(facecolor='#252537', edgecolor='#2e2e45', labelcolor='#A0AEC0', title='Risk Label')
+    legend.get_title().set_color('#A0AEC0')
     plt.tight_layout()
     return fig
 
 
 def plot_return_distribution(df_model):
     fig, ax = plt.subplots(figsize=(9, 5))
-    fig.patch.set_facecolor('#0f1117')
-    ax.set_facecolor('#1a1f2e')
+    fig.patch.set_facecolor('#1E1E2F')
+    ax.set_facecolor('#252537')
     for spine in ax.spines.values():
-        spine.set_edgecolor('#2d3748')
-    ax.tick_params(colors='#8a9bb5')
-    ax.xaxis.label.set_color('#8a9bb5')
-    ax.yaxis.label.set_color('#8a9bb5')
+        spine.set_edgecolor('#2e2e45')
+    ax.tick_params(colors='#A0AEC0')
+    ax.xaxis.label.set_color('#A0AEC0')
+    ax.yaxis.label.set_color('#A0AEC0')
 
     for cls, color in zip(df_model['asset_class'].unique(), ASSET_COLORS):
         data = df_model[df_model['asset_class'] == cls]['return_3y'].dropna()
         ax.hist(data, bins=25, alpha=0.65, color=color, label=cls, edgecolor='none')
 
-    ax.set_title('3Y Return Distribution by Asset Class', fontsize=12, fontweight='bold', color='#f5f5f5')
+    ax.set_title('3Y Return Distribution by Asset Class', fontsize=12, fontweight='bold', color='#F8FAFC')
     ax.set_xlabel('3-Year Return (%)')
     ax.set_ylabel('Number of Funds')
-    legend = ax.legend(facecolor='#1a1f2e', edgecolor='#2d3748', labelcolor='#c8d5e8')
+    legend = ax.legend(facecolor='#252537', edgecolor='#2e2e45', labelcolor='#A0AEC0')
     plt.tight_layout()
     return fig
 
 
 def plot_growth_bar(growth_df, profile):
     fig, ax = plt.subplots(figsize=(8, 4))
-    fig.patch.set_facecolor('#0f1117')
-    ax.set_facecolor('#1a1f2e')
+    fig.patch.set_facecolor('#1E1E2F')
+    ax.set_facecolor('#252537')
     for spine in ax.spines.values():
-        spine.set_edgecolor('#2d3748')
-    ax.tick_params(colors='#8a9bb5')
-    ax.xaxis.label.set_color('#8a9bb5')
-    ax.yaxis.label.set_color('#8a9bb5')
+        spine.set_edgecolor('#2e2e45')
+    ax.tick_params(colors='#A0AEC0')
+    ax.xaxis.label.set_color('#A0AEC0')
+    ax.yaxis.label.set_color('#A0AEC0')
 
     x = range(len(growth_df))
-    bars_inv = ax.bar(x, growth_df['Invested (₹)'], color='#2d3748', label='Invested', width=0.5)
+    bars_inv = ax.bar(x, growth_df['Invested (₹)'], color='#2e2e45', label='Invested', width=0.5)
     bars_fin = ax.bar(x, growth_df['Value after 3Y (₹)'] - growth_df['Invested (₹)'],
                       bottom=growth_df['Invested (₹)'],
                       color=PROFILE_COLORS[profile], alpha=0.85, label='Growth', width=0.5)
     ax.set_xticks(list(x))
-    ax.set_xticklabels(growth_df['Asset Class'], rotation=20, ha='right', color='#c8d5e8', fontsize=9)
-    ax.set_title(f'₹ Growth Simulation — {profile} Portfolio (3 Years)', fontsize=12, fontweight='bold', color='#f5f5f5')
+    ax.set_xticklabels(growth_df['Asset Class'], rotation=20, ha='right', color='#A0AEC0', fontsize=9)
+    ax.set_title(f'₹ Growth Simulation — {profile} Portfolio (3 Years)', fontsize=12, fontweight='bold', color='#F8FAFC')
     ax.set_ylabel('Amount (₹)')
-    legend = ax.legend(facecolor='#1a1f2e', edgecolor='#2d3748', labelcolor='#c8d5e8')
+    legend = ax.legend(facecolor='#252537', edgecolor='#2e2e45', labelcolor='#A0AEC0')
     plt.tight_layout()
     return fig
 
 
 def plot_sharpe_scatter(df_model):
     fig, ax = plt.subplots(figsize=(9, 5))
-    fig.patch.set_facecolor('#0f1117')
-    ax.set_facecolor('#1a1f2e')
+    fig.patch.set_facecolor('#1E1E2F')
+    ax.set_facecolor('#252537')
     for spine in ax.spines.values():
-        spine.set_edgecolor('#2d3748')
-    ax.tick_params(colors='#8a9bb5')
-    ax.xaxis.label.set_color('#8a9bb5')
-    ax.yaxis.label.set_color('#8a9bb5')
+        spine.set_edgecolor('#2e2e45')
+    ax.tick_params(colors='#A0AEC0')
+    ax.xaxis.label.set_color('#A0AEC0')
+    ax.yaxis.label.set_color('#A0AEC0')
 
     for label, color in PROFILE_COLORS.items():
         sub = df_model[df_model['risk_label'] == label]
         ax.scatter(sub['expense_ratio'], sub['sharpe'], c=color, label=label,
                    alpha=0.55, s=25, edgecolors='none')
-    ax.set_title('Expense Ratio vs Sharpe Ratio', fontsize=12, fontweight='bold', color='#f5f5f5')
+    ax.set_title('Expense Ratio vs Sharpe Ratio', fontsize=12, fontweight='bold', color='#F8FAFC')
     ax.set_xlabel('Expense Ratio (%)')
     ax.set_ylabel('Sharpe Ratio')
-    legend = ax.legend(facecolor='#1a1f2e', edgecolor='#2d3748', labelcolor='#c8d5e8')
+    legend = ax.legend(facecolor='#252537', edgecolor='#2e2e45', labelcolor='#A0AEC0')
     plt.tight_layout()
     return fig
 
@@ -541,7 +541,7 @@ def plot_sharpe_scatter(df_model):
 # ─────────────────────────────────────────────
 with st.sidebar:
     st.markdown('<p class="sidebar-header">📊 PortfolioAI</p>', unsafe_allow_html=True)
-    st.markdown('<p style="color:#8a9bb5;font-size:0.85rem">Indian Mutual Fund Recommender · ML-Powered</p>', unsafe_allow_html=True)
+    st.markdown('<p style="color:#A0AEC0;font-size:0.85rem">Indian Mutual Fund Recommender · ML-Powered</p>', unsafe_allow_html=True)
     st.markdown("---")
 
     csv_path = st.text_input("CSV Path", value="master_portfolio.csv",
@@ -556,7 +556,7 @@ with st.sidebar:
                     label_visibility="collapsed")
 
     st.markdown("---")
-    st.markdown('<p style="color:#4a5568;font-size:0.75rem">K-Means · K=3 · StandardScaler<br>Features: 3Y/5Y return, Sharpe, Std Dev, Expense Ratio</p>', unsafe_allow_html=True)
+    st.markdown('<p style="color:#2e2e45;font-size:0.75rem">K-Means · K=3 · StandardScaler<br>Features: 3Y/5Y return, Sharpe, Std Dev, Expense Ratio</p>', unsafe_allow_html=True)
 
 
 # ─────────────────────────────────────────────
@@ -597,19 +597,19 @@ if page == "🏠 Home":
         st.markdown("""
         <div class="profile-card profile-conservative">
         <h3 style='margin:0 0 8px'>① Answer 6 Questions</h3>
-        <p style='color:#8a9bb5;margin:0'>Your age, goal, income, experience and risk tolerance shape your investor profile.</p>
+        <p style='color:#A0AEC0;margin:0'>Your age, goal, income, experience and risk tolerance shape your investor profile.</p>
         </div>""", unsafe_allow_html=True)
     with c2:
         st.markdown("""
         <div class="profile-card profile-moderate">
         <h3 style='margin:0 0 8px'>② Get Risk Profiled</h3>
-        <p style='color:#8a9bb5;margin:0'>A score out of 30 maps you to Conservative · Moderate · Aggressive.</p>
+        <p style='color:#A0AEC0;margin:0'>A score out of 30 maps you to Conservative · Moderate · Aggressive.</p>
         </div>""", unsafe_allow_html=True)
     with c3:
         st.markdown("""
         <div class="profile-card profile-aggressive">
         <h3 style='margin:0 0 8px'>③ See Your Portfolio</h3>
-        <p style='color:#8a9bb5;margin:0'>Asset allocation + top K-Means clustered funds + 3-year growth simulation.</p>
+        <p style='color:#A0AEC0;margin:0'>Asset allocation + top K-Means clustered funds + 3-year growth simulation.</p>
         </div>""", unsafe_allow_html=True)
 
     if data_loaded:
@@ -625,7 +625,7 @@ if page == "🏠 Home":
 # ─────────────────────────────────────────────
 elif page == "📝 Questionnaire":
     st.markdown("## 📝 Investor Risk Questionnaire")
-    st.markdown('<p style="color:#8a9bb5">Answer all 6 questions honestly. Your total score (6–30) determines your risk profile.</p>', unsafe_allow_html=True)
+    st.markdown('<p style="color:#A0AEC0">Answer all 6 questions honestly. Your total score (6–30) determines your risk profile.</p>', unsafe_allow_html=True)
     st.markdown("<br>", unsafe_allow_html=True)
 
     answers = {}
@@ -648,8 +648,8 @@ elif page == "📝 Questionnaire":
         st.markdown(f"""
         <div class="profile-card {css_class}" style="margin-top:20px">
             <h2 style="margin:0 0 6px;color:{color}">{emoji} {profile} Investor</h2>
-            <p style="color:#8a9bb5;margin:0 0 14px">Score: <b style="color:#EF9F27">{total}/30</b></p>
-            <p style="color:#c8d5e8;margin:0">
+            <p style="color:#A0AEC0;margin:0 0 14px">Score: <b style="color:#3DDC97">{total}/30</b></p>
+            <p style="color:#F8FAFC;margin:0">
             {'🛡️ You prefer capital preservation. Debt-heavy portfolio with low volatility.' if profile == 'Conservative' else
              '⚖️ Balanced mix of growth and safety. Equity + Debt in equal measure.' if profile == 'Moderate' else
              '🚀 You seek maximum growth. High equity allocation, comfortable with swings.'}
@@ -676,7 +676,7 @@ elif page == "📈 Recommendation":
         profile = st.selectbox("Risk Profile", profile_options, index=profile_options.index(saved_profile))
     with col_r:
         if saved_score:
-            st.markdown(f"<br><span style='color:#8a9bb5'>Questionnaire score: <b style='color:#EF9F27'>{saved_score}/30</b></span>", unsafe_allow_html=True)
+            st.markdown(f"<br><span style='color:#A0AEC0'>Questionnaire score: <b style='color:#3DDC97'>{saved_score}/30</b></span>", unsafe_allow_html=True)
 
     if not data_loaded:
         st.warning("Please load data first.")
@@ -753,20 +753,20 @@ elif page == "🔬 EDA Explorer":
         with tabs[2]:
             st.markdown("#### Risk Label Distribution by Asset Class")
             fig, ax = plt.subplots(figsize=(9, 5))
-            fig.patch.set_facecolor('#0f1117')
-            ax.set_facecolor('#1a1f2e')
+            fig.patch.set_facecolor('#1E1E2F')
+            ax.set_facecolor('#252537')
             for spine in ax.spines.values():
-                spine.set_edgecolor('#2d3748')
-            ax.tick_params(colors='#8a9bb5')
+                spine.set_edgecolor('#2e2e45')
+            ax.tick_params(colors='#A0AEC0')
             cross = pd.crosstab(df_model['asset_class'], df_model['risk_label'])
-            cross.plot(kind='bar', ax=ax, color=['#D85A30', '#1D9E75', '#378ADD'],
-                       edgecolor='#0f1117', linewidth=0.5, width=0.7)
-            ax.set_title('Risk Label Distribution by Asset Class', fontsize=12, fontweight='bold', color='#f5f5f5')
+            cross.plot(kind='bar', ax=ax, color=['#FF6B6B', '#3DDC97', '#4F8CFF'],
+                       edgecolor='#1E1E2F', linewidth=0.5, width=0.7)
+            ax.set_title('Risk Label Distribution by Asset Class', fontsize=12, fontweight='bold', color='#F8FAFC')
             ax.set_xlabel('')
-            ax.set_ylabel('Number of Funds', color='#8a9bb5')
-            legend = ax.legend(title='Risk Label', facecolor='#1a1f2e', edgecolor='#2d3748', labelcolor='#c8d5e8')
-            legend.get_title().set_color('#8a9bb5')
-            plt.xticks(rotation=0, color='#c8d5e8')
+            ax.set_ylabel('Number of Funds', color='#A0AEC0')
+            legend = ax.legend(title='Risk Label', facecolor='#252537', edgecolor='#2e2e45', labelcolor='#A0AEC0')
+            legend.get_title().set_color('#A0AEC0')
+            plt.xticks(rotation=0, color='#F8FAFC')
             plt.tight_layout()
             st.pyplot(fig)
 
